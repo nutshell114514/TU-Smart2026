@@ -1,0 +1,873 @@
+>>> %Run -c $EDITOR_CONTENT
+
+FO phi=264.8 tgt=180.0 err=-84.8 rem=84.8 dir=-1 fine=0 spd=80.0 rd=12.0 rvx=-79.7 rvy=-7.2 ffx=94.2 ffy=74.4 cx=21.7 cy=-12.5 relx=-1.0 rely=12.0 bf=-4.8 lock=0 visage=0
+FO phi=264.6 tgt=180.0 err=-84.6 rem=84.6 dir=-1 fine=0 spd=80.0 rd=12.0 rvx=-79.6 rvy=-7.5 ffx=94.2 ffy=74.4 cx=22.0 cy=-12.7 relx=-1.0 rely=12.0 bf=-4.8 lock=0 visage=51
+FO phi=262.7 tgt=180.0 err=-82.7 rem=82.7 dir=-1 fine=0 spd=80.0 rd=13.0 rvx=-79.4 rvy=-10.1 ffx=94.2 ffy=74.4 cx=24.9 cy=-15.1 relx=-1.0 rely=13.0 bf=-4.4 lock=0 visage=46
+FO phi=260.8 tgt=180.0 err=-80.8 rem=80.8 dir=-1 fine=0 spd=80.0 rd=13.0 rvx=-79.0 rvy=-12.8 ffx=94.2 ffy=74.4 cx=28.0 cy=-17.4 relx=-1.0 rely=13.0 bf=-4.4 lock=0 visage=96
+FO phi=260.7 tgt=180.0 err=-80.7 rem=80.7 dir=-1 fine=0 spd=80.0 rd=13.0 rvx=-79.0 rvy=-12.9 ffx=94.2 ffy=74.4 cx=28.2 cy=-17.5 relx=-1.0 rely=13.0 bf=-4.4 lock=0 visage=148
+FO phi=270.7 tgt=180.0 err=-90.7 rem=90.7 dir=-1 fine=0 spd=80.0 rd=17.3 rvx=-60.7 rvy=7.2 ffx=94.2 ffy=74.4 cx=24.1 cy=2.1 relx=3.0 rely=17.0 bf=3.9 lock=0 visage=4
+FO phi=277.5 tgt=180.0 err=-97.5 rem=97.5 dir=-1 fine=0 spd=80.0 rd=17.3 rvx=-60.6 rvy=8.0 ffx=94.2 ffy=74.4 cx=23.0 cy=3.1 relx=3.0 rely=17.0 bf=10.0 lock=0 visage=56
+FO phi=276.1 tgt=180.0 err=-96.1 rem=96.1 dir=-1 fine=0 spd=80.0 rd=17.3 rvx=-60.8 rvy=6.5 ffx=94.2 ffy=74.4 cx=24.9 cy=1.4 relx=3.0 rely=17.0 bf=10.0 lock=0 visage=109
+FO phi=277.9 tgt=180.0 err=-97.9 rem=97.9 dir=-1 fine=0 spd=80.0 rd=17.3 rvx=-60.6 rvy=8.4 ffx=94.2 ffy=74.4 cx=22.7 cy=3.5 relx=3.0 rely=17.0 bf=10.0 lock=0 visage=161
+FO phi=278.7 tgt=180.0 err=-98.7 rem=98.7 dir=-1 fine=0 spd=80.0 rd=25.2 rvx=0.0 rvy=0.0 ffx=94.2 ffy=74.4 cx=83.3 cy=-4.9 relx=3.0 rely=25.0 bf=7.7 lock=0 visage=11
+FO phi=278.4 tgt=180.0 err=-98.4 rem=98.4 dir=-1 fine=0 spd=80.0 rd=25.2 rvx=0.0 rvy=0.0 ffx=94.2 ffy=74.4 cx=82.6 cy=-4.8 relx=3.0 rely=25.0 bf=6.9 lock=0 visage=61
+FO phi=276.8 tgt=180.0 err=-96.8 rem=96.8 dir=-1 fine=0 spd=80.0 rd=25.1 rvx=0.0 rvy=0.0 ffx=94.2 ffy=74.4 cx=84.8 cy=-5.0 relx=2.0 rely=25.0 bf=4.6 lock=0 visage=36
+FO phi=278.7 tgt=180.0 err=-98.7 rem=98.7 dir=-1 fine=0 spd=80.0 rd=25.1 rvx=0.0 rvy=0.0 ffx=85.9 ffy=67.9 cx=73.8 cy=-11.2 relx=2.0 rely=25.0 bf=4.6 lock=0 visage=88
+FO phi=266.5 tgt=180.0 err=-86.5 rem=86.5 dir=-1 fine=0 spd=80.0 rd=28.4 rvx=0.0 rvy=0.0 ffx=53.0 ffy=41.8 cx=61.6 cy=-37.7 relx=-5.0 rely=28.0 bf=-7.5 lock=0 visage=16
+FO phi=264.5 tgt=180.0 err=-84.5 rem=84.5 dir=-1 fine=0 spd=80.0 rd=28.4 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=7.7 cy=-79.6 relx=-5.0 rely=28.0 bf=-10.1 lock=0 visage=69
+FO phi=257.7 tgt=180.0 err=-77.7 rem=77.7 dir=-1 fine=0 spd=80.0 rd=31.0 rvx=34.5 rvy=7.6 ffx=0.0 ffy=0.0 cx=51.6 cy=-70.6 relx=-8.0 rely=30.0 bf=-14.9 lock=0 visage=47
+FO phi=253.8 tgt=180.0 err=-73.8 rem=73.8 dir=-1 fine=0 spd=80.0 rd=31.0 rvx=33.9 rvy=9.9 ffx=0.0 ffy=0.0 cx=56.3 cy=-66.9 relx=-8.0 rely=30.0 bf=-14.9 lock=0 visage=101
+FO phi=247.9 tgt=180.0 err=-67.9 rem=67.9 dir=-1 fine=0 spd=80.0 rd=33.8 rvx=50.8 rvy=20.8 ffx=0.0 ffy=0.0 cx=81.1 cy=-53.2 relx=-11.0 rely=32.0 bf=-18.8 lock=0 visage=31
+FO phi=244.4 tgt=180.0 err=-64.4 rem=64.4 dir=-1 fine=0 spd=80.0 rd=33.5 rvx=47.9 rvy=21.9 ffx=0.0 ffy=0.0 cx=81.2 cy=-50.8 relx=-10.0 rely=32.0 bf=-18.4 lock=0 visage=0
+FO phi=241.4 tgt=180.0 err=-61.4 rem=61.4 dir=-1 fine=0 spd=80.0 rd=33.5 rvx=46.3 rvy=25.2 ffx=0.0 ffy=0.0 cx=84.6 cy=-45.0 relx=-10.0 rely=32.0 bf=-17.4 lock=0 visage=50
+FO phi=238.7 tgt=180.0 err=-58.7 rem=58.7 dir=-1 fine=0 spd=80.0 rd=33.5 rvx=45.0 rvy=27.4 ffx=0.0 ffy=0.0 cx=86.6 cy=-40.9 relx=-10.0 rely=32.0 bf=-17.4 lock=0 visage=102
+FO phi=233.7 tgt=180.0 err=-53.7 rem=53.7 dir=-1 fine=0 spd=80.0 rd=32.9 rvx=38.8 rvy=28.6 ffx=0.0 ffy=0.0 cx=86.3 cy=-35.7 relx=-11.0 rely=31.0 bf=-19.4 lock=0 visage=30
+FO phi=230.5 tgt=180.0 err=-50.5 rem=50.5 dir=-1 fine=0 spd=80.0 rd=32.3 rvx=34.4 rvy=27.4 ffx=0.0 ffy=0.0 cx=84.2 cy=-35.2 relx=-9.0 rely=31.0 bf=-17.1 lock=0 visage=9
+FO phi=228.6 tgt=180.0 err=-48.6 rem=48.6 dir=-1 fine=0 spd=80.0 rd=32.3 rvx=33.0 rvy=29.1 ffx=0.0 ffy=0.0 cx=85.9 cy=-30.9 relx=-9.0 rely=31.0 bf=-16.2 lock=0 visage=62
+FO phi=226.0 tgt=180.0 err=-46.0 rem=46.0 dir=-1 fine=0 spd=80.0 rd=32.3 rvx=31.6 rvy=30.5 ffx=0.0 ffy=0.0 cx=87.2 cy=-27.0 relx=-9.0 rely=31.0 bf=-16.2 lock=0 visage=115
+FO phi=225.5 tgt=180.0 err=-45.5 rem=45.5 dir=-1 fine=0 spd=80.0 rd=29.8 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=56.0 cy=-57.1 relx=-7.0 rely=29.0 bf=-13.6 lock=0 visage=43
+FO phi=221.7 tgt=180.0 err=-41.7 rem=41.7 dir=-1 fine=0 spd=80.0 rd=28.9 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=59.8 cy=-53.1 relx=-7.0 rely=28.0 bf=-14.0 lock=0 visage=15
+FO phi=219.4 tgt=180.0 err=-39.4 rem=39.4 dir=-1 fine=0 spd=80.0 rd=28.9 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=61.8 cy=-50.8 relx=-7.0 rely=28.0 bf=-14.0 lock=0 visage=67
+FO phi=216.1 tgt=180.0 err=-36.1 rem=36.1 dir=-1 fine=0 spd=80.0 rd=22.6 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=64.0 cy=-48.0 relx=-5.0 rely=22.0 bf=-13.6 lock=0 visage=0
+FO phi=213.9 tgt=180.0 err=-33.9 rem=33.9 dir=-1 fine=0 spd=79.8 rd=22.6 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=66.2 cy=-44.5 relx=-5.0 rely=22.0 bf=-12.8 lock=0 visage=51
+FO phi=215.0 tgt=180.0 err=-35.0 rem=35.0 dir=-1 fine=0 spd=80.0 rd=22.4 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=65.4 cy=-46.1 relx=-4.0 rely=22.0 bf=-10.5 lock=0 visage=22
+FO phi=214.2 tgt=180.0 err=-34.2 rem=34.2 dir=-1 fine=0 spd=79.8 rd=22.4 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=66.0 cy=-44.9 relx=-4.0 rely=22.0 bf=-10.3 lock=0 visage=74
+FO phi=209.3 tgt=180.0 err=-29.3 rem=29.3 dir=-1 fine=0 spd=78.9 rd=18.7 rvx=-22.4 rvy=-46.1 ffx=0.0 ffy=0.0 cx=48.6 cy=-80.5 relx=-5.0 rely=18.0 bf=-12.1 lock=0 visage=0
+FOH x=77.7 y=58.3 lx=84.5 ly=78.0 relx=-5.0 rely=18.0 phi=205.4 visage=20
+FY yaw=39.0 target=0.0 err=39.0
+FY yaw=36.8 target=0.0 err=36.8
+FY yaw=34.1 target=0.0 err=34.1
+FY yaw=26.8 target=0.0 err=26.8
+FY yaw=18.8 target=0.0 err=18.8
+FY yaw=8.4 target=0.0 err=8.4
+FYD yaw=5.9 target=0.0 err=5.9 x=87.4 y=60.5
+FS lat=-5.0 fwd=-9.0 yerr=2.8 vxb=-0.0 vyb=-15.8 ffx=0.0 ffy=0.0 cx=-0.8 cy=-15.7 stop=0 stable=0 ready=0 lock=1
+FS lat=6.0 fwd=-9.0 yerr=3.1 vxb=0.0 vyb=-15.8 ffx=0.0 ffy=0.0 cx=-0.9 cy=-15.7 stop=0 stable=0 ready=0 lock=1
+FS lat=8.0 fwd=-9.0 yerr=4.5 vxb=0.0 vyb=-15.8 ffx=0.0 ffy=0.0 cx=-1.2 cy=-15.7 stop=0 stable=0 ready=0 lock=1
+FS lat=8.0 fwd=-9.0 yerr=5.6 vxb=0.0 vyb=-15.8 ffx=0.0 ffy=0.0 cx=-1.5 cy=-15.7 stop=0 stable=0 ready=0 lock=1
+FS lat=8.0 fwd=-9.0 yerr=6.2 vxb=0.0 vyb=-15.8 ffx=0.0 ffy=0.0 cx=-1.7 cy=-15.7 stop=0 stable=0 ready=0 lock=1
+FS lat=9.0 fwd=-9.0 yerr=5.9 vxb=13.5 vyb=-15.8 ffx=0.0 ffy=0.0 cx=11.8 cy=-17.1 stop=0 stable=0 ready=0 lock=1
+FS lat=9.0 fwd=-9.0 yerr=5.3 vxb=13.5 vyb=-15.8 ffx=0.0 ffy=0.0 cx=12.0 cy=-16.9 stop=0 stable=0 ready=0 lock=1
+FS lat=9.0 fwd=-9.0 yerr=3.5 vxb=13.5 vyb=-15.8 ffx=0.0 ffy=0.0 cx=12.5 cy=-16.5 stop=0 stable=0 ready=0 lock=1
+FS lat=9.0 fwd=-9.0 yerr=2.0 vxb=13.5 vyb=-15.8 ffx=0.0 ffy=0.0 cx=12.9 cy=-16.2 stop=0 stable=0 ready=0 lock=1
+FS lat=9.0 fwd=-9.0 yerr=0.9 vxb=13.5 vyb=-15.8 ffx=0.0 ffy=0.0 cx=13.2 cy=-16.0 stop=0 stable=0 ready=0 lock=1
+FS lat=9.0 fwd=-9.0 yerr=0.4 vxb=13.5 vyb=-15.8 ffx=0.0 ffy=0.0 cx=13.4 cy=-15.8 stop=0 stable=0 ready=0 lock=1
+FS lat=9.0 fwd=-9.0 yerr=0.1 vxb=13.5 vyb=-15.8 ffx=0.0 ffy=0.0 cx=13.5 cy=-15.7 stop=0 stable=0 ready=0 lock=1
+FS lat=10.0 fwd=-8.0 yerr=0.5 vxb=30.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=30.0 cy=0.3 stop=0 stable=0 ready=0 lock=1
+FS lat=10.0 fwd=-8.0 yerr=0.7 vxb=30.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=30.0 cy=0.4 stop=0 stable=0 ready=0 lock=1
+FS lat=11.0 fwd=-8.0 yerr=0.5 vxb=49.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=49.5 cy=0.5 stop=0 stable=0 ready=0 lock=1
+FS lat=11.0 fwd=-8.0 yerr=0.4 vxb=49.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=49.5 cy=0.3 stop=0 stable=0 ready=0 lock=1
+FS lat=10.0 fwd=-8.0 yerr=0.0 vxb=30.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=30.0 cy=0.0 stop=0 stable=0 ready=0 lock=1
+FS lat=10.0 fwd=-8.0 yerr=0.1 vxb=30.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=30.0 cy=-0.0 stop=0 stable=0 ready=0 lock=1
+FS lat=10.0 fwd=-7.0 yerr=0.1 vxb=30.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=30.0 cy=-0.1 stop=0 stable=0 ready=0 lock=1
+FS lat=10.0 fwd=-7.0 yerr=0.2 vxb=30.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=30.0 cy=0.1 stop=0 stable=0 ready=0 lock=1
+FS lat=9.0 fwd=-4.0 yerr=0.3 vxb=13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=13.5 cy=-0.1 stop=0 stable=0 ready=0 lock=1
+FS lat=9.0 fwd=-4.0 yerr=0.0 vxb=13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=13.5 cy=-0.0 stop=0 stable=0 ready=0 lock=1
+FS lat=9.0 fwd=-3.0 yerr=0.1 vxb=13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=13.5 cy=-0.0 stop=0 stable=0 ready=0 lock=1
+FS lat=9.0 fwd=-3.0 yerr=0.1 vxb=13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=13.5 cy=-0.0 stop=0 stable=0 ready=0 lock=1
+FS lat=7.0 fwd=-2.0 yerr=0.1 vxb=0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=7.0 fwd=-1.0 yerr=0.2 vxb=0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=7.0 fwd=-1.0 yerr=0.3 vxb=0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=7.0 fwd=-1.0 yerr=0.1 vxb=0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=6.0 fwd=-1.0 yerr=0.0 vxb=0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=6.0 fwd=-1.0 yerr=0.3 vxb=0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=6.0 fwd=-1.0 yerr=0.5 vxb=0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=6.0 fwd=-1.0 yerr=0.4 vxb=0.0 vyb=-0.0 ffx=114.9 ffy=-10.1 cx=114.9 cy=-10.1 stop=0 stable=1 ready=2 lock=1
+FS lat=5.0 fwd=-1.0 yerr=0.5 vxb=0.0 vyb=-0.0 ffx=114.9 ffy=-10.1 cx=114.9 cy=-10.1 stop=0 stable=1 ready=2 lock=1
+FS lat=5.0 fwd=-1.0 yerr=0.6 vxb=0.0 vyb=-0.0 ffx=114.9 ffy=-10.2 cx=114.9 cy=-10.2 stop=0 stable=1 ready=2 lock=1
+FS lat=5.0 fwd=-1.0 yerr=0.5 vxb=0.0 vyb=-0.0 ffx=114.9 ffy=-10.1 cx=114.9 cy=-10.1 stop=0 stable=1 ready=2 lock=1
+FS lat=5.0 fwd=-1.0 yerr=0.4 vxb=0.0 vyb=-0.0 ffx=114.9 ffy=-10.1 cx=114.9 cy=-10.1 stop=0 stable=1 ready=2 lock=1
+FS lat=5.0 fwd=-1.0 yerr=0.8 vxb=0.0 vyb=-0.0 ffx=115.1 ffy=-9.8 cx=115.1 cy=-9.8 stop=0 stable=1 ready=2 lock=1
+FS lat=5.0 fwd=-1.0 yerr=0.3 vxb=0.0 vyb=-0.0 ffx=115.0 ffy=-10.1 cx=115.0 cy=-10.1 stop=0 stable=1 ready=2 lock=1
+FS lat=5.0 fwd=-1.0 yerr=0.8 vxb=0.0 vyb=-0.0 ffx=114.9 ffy=-10.2 cx=114.9 cy=-10.2 stop=0 stable=1 ready=2 lock=1
+FS lat=5.0 fwd=0.0 yerr=0.9 vxb=0.0 vyb=0.0 ffx=114.8 ffy=-10.2 cx=114.8 cy=-10.2 stop=0 stable=1 ready=2 lock=1
+FS lat=5.0 fwd=0.0 yerr=2.4 vxb=0.0 vyb=0.0 ffx=114.5 ffy=-10.6 cx=114.5 cy=-10.6 stop=0 stable=1 ready=2 lock=1
+FS lat=5.0 fwd=1.0 yerr=2.9 vxb=0.0 vyb=0.0 ffx=114.5 ffy=-10.7 cx=114.5 cy=-10.7 stop=0 stable=1 ready=2 lock=1
+FS lat=5.0 fwd=1.0 yerr=3.1 vxb=0.0 vyb=0.0 ffx=114.4 ffy=-10.8 cx=114.4 cy=-10.8 stop=0 stable=1 ready=2 lock=1
+FS lat=5.0 fwd=5.0 yerr=4.3 vxb=0.0 vyb=0.0 ffx=114.2 ffy=-11.1 cx=114.2 cy=-11.1 stop=0 stable=1 ready=2 lock=1
+FS lat=5.0 fwd=5.0 yerr=2.7 vxb=0.0 vyb=0.0 ffx=114.5 ffy=-10.7 cx=114.5 cy=-10.7 stop=0 stable=1 ready=2 lock=1
+FS lat=3.0 fwd=6.0 yerr=3.5 vxb=0.0 vyb=0.0 ffx=114.3 ffy=-10.9 cx=114.3 cy=-10.9 stop=0 stable=1 ready=2 lock=1
+FS lat=3.0 fwd=6.0 yerr=3.1 vxb=0.0 vyb=0.0 ffx=114.4 ffy=-10.8 cx=114.4 cy=-10.8 stop=0 stable=1 ready=2 lock=1
+FS lat=3.0 fwd=9.0 yerr=2.9 vxb=0.0 vyb=15.8 ffx=114.5 ffy=-10.7 cx=115.3 cy=5.0 stop=0 stable=0 ready=0 lock=1
+FS lat=2.0 fwd=6.0 yerr=2.3 vxb=0.0 vyb=0.0 ffx=114.6 ffy=-10.6 cx=114.6 cy=-10.6 stop=0 stable=1 ready=0 lock=1
+FS lat=2.0 fwd=6.0 yerr=1.8 vxb=0.0 vyb=0.0 ffx=114.7 ffy=-10.5 cx=114.7 cy=-10.5 stop=0 stable=1 ready=0 lock=1
+FS lat=2.0 fwd=6.0 yerr=2.8 vxb=0.0 vyb=0.0 ffx=114.5 ffy=-10.7 cx=114.5 cy=-10.7 stop=0 stable=1 ready=0 lock=1
+FS lat=4.0 fwd=10.0 yerr=2.9 vxb=0.0 vyb=35.0 ffx=114.4 ffy=-10.7 cx=116.2 cy=24.2 stop=0 stable=0 ready=0 lock=1
+FS lat=4.0 fwd=10.0 yerr=2.3 vxb=0.0 vyb=35.0 ffx=114.6 ffy=-10.6 cx=116.0 cy=24.4 stop=0 stable=0 ready=0 lock=1
+FS lat=4.0 fwd=10.0 yerr=1.9 vxb=0.0 vyb=35.0 ffx=114.7 ffy=-10.5 cx=115.8 cy=24.5 stop=0 stable=0 ready=0 lock=1
+FS lat=4.0 fwd=10.0 yerr=1.8 vxb=0.0 vyb=35.0 ffx=114.7 ffy=-10.4 cx=115.8 cy=24.5 stop=0 stable=0 ready=0 lock=1
+FS lat=3.0 fwd=10.0 yerr=1.5 vxb=0.0 vyb=35.0 ffx=114.7 ffy=-10.4 cx=115.6 cy=24.6 stop=0 stable=0 ready=0 lock=1
+FS lat=3.0 fwd=10.0 yerr=2.0 vxb=0.0 vyb=35.0 ffx=114.6 ffy=-10.5 cx=115.9 cy=24.5 stop=0 stable=0 ready=0 lock=1
+FS lat=3.0 fwd=10.0 yerr=1.3 vxb=0.0 vyb=35.0 ffx=114.8 ffy=-10.3 cx=115.5 cy=24.7 stop=0 stable=0 ready=0 lock=1
+FS lat=3.0 fwd=10.0 yerr=0.9 vxb=0.0 vyb=35.0 ffx=114.8 ffy=-10.2 cx=115.4 cy=24.8 stop=0 stable=0 ready=0 lock=1
+FS lat=3.0 fwd=11.0 yerr=0.1 vxb=0.0 vyb=57.8 ffx=115.0 ffy=-10.0 cx=114.9 cy=47.8 stop=0 stable=0 ready=0 lock=1
+FS lat=3.0 fwd=11.0 yerr=0.2 vxb=0.0 vyb=57.8 ffx=115.0 ffy=-9.9 cx=114.8 cy=47.8 stop=0 stable=0 ready=0 lock=1
+FS lat=3.0 fwd=11.0 yerr=0.8 vxb=0.0 vyb=57.8 ffx=114.9 ffy=-10.2 cx=115.7 cy=47.5 stop=0 stable=0 ready=0 lock=1
+FS lat=4.0 fwd=15.0 yerr=2.3 vxb=0.0 vyb=80.0 ffx=114.6 ffy=-10.6 cx=117.7 cy=69.4 stop=0 stable=0 ready=0 lock=1
+RT relx=21.0 rely=30.0 dist_ok=0 diag_ok=0 centered=0 diag=1 yaw=354.2 target=0.0
+RT relx=19.0 rely=34.0 dist_ok=0 diag_ok=0 centered=0 diag=1 yaw=358.8 target=0.0
+RT relx=19.0 rely=34.0 dist_ok=0 diag_ok=0 centered=0 diag=1 yaw=357.8 target=0.0
+RT relx=-1.0 rely=34.0 dist_ok=0 diag_ok=0 centered=0 diag=1 yaw=355.8 target=0.0
+RT relx=0.0 rely=34.0 dist_ok=0 diag_ok=0 centered=0 diag=1 yaw=353.9 target=0.0
+RT relx=0.0 rely=34.0 dist_ok=0 diag_ok=0 centered=0 diag=1 yaw=353.7 target=0.0
+RT relx=0.0 rely=34.0 dist_ok=0 diag_ok=0 centered=0 diag=1 yaw=354.6 target=0.0
+RT relx=6.0 rely=37.0 dist_ok=0 diag_ok=0 centered=0 diag=1 yaw=356.0 target=0.0
+RT relx=5.0 rely=30.0 dist_ok=1 diag_ok=1 centered=1 diag=1 yaw=357.3 target=0.0
+RT relx=5.0 rely=30.0 dist_ok=1 diag_ok=1 centered=1 diag=1 yaw=358.4 target=0.0
+RT relx=5.0 rely=30.0 dist_ok=1 diag_ok=1 centered=1 diag=1 yaw=357.9 target=0.0
+RT relx=9.0 rely=30.0 dist_ok=1 diag_ok=1 centered=1 diag=1 yaw=357.9 target=0.0
+RTR yaw=0.0 x=-0.6 y=19.4
+FS lat=10.0 fwd=4.0 yerr=2.1 vxb=30.0 vyb=0.0 ffx=138.0 ffy=1.8 cx=168.0 cy=2.8 stop=0 stable=0 ready=2 lock=1
+FS lat=10.0 fwd=4.0 yerr=2.3 vxb=30.0 vyb=0.0 ffx=138.0 ffy=2.0 cx=168.0 cy=3.2 stop=0 stable=0 ready=2 lock=1
+FS lat=10.0 fwd=4.0 yerr=1.3 vxb=30.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=30.0 cy=0.7 stop=0 stable=0 ready=2 lock=1
+FS lat=15.0 fwd=2.0 yerr=0.7 vxb=70.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=70.0 cy=0.8 stop=0 stable=0 ready=2 lock=1
+FS lat=17.0 fwd=2.0 yerr=0.1 vxb=70.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=70.0 cy=0.1 stop=0 stable=0 ready=2 lock=1
+FS lat=17.0 fwd=2.0 yerr=0.6 vxb=70.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=70.0 cy=0.7 stop=0 stable=0 ready=2 lock=1
+FS lat=19.0 fwd=3.0 yerr=0.6 vxb=70.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=70.0 cy=0.8 stop=0 stable=0 ready=2 lock=1
+FS lat=19.0 fwd=3.0 yerr=0.2 vxb=70.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=70.0 cy=0.3 stop=0 stable=0 ready=2 lock=1
+FS lat=17.0 fwd=2.0 yerr=0.2 vxb=70.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=70.0 cy=-0.2 stop=0 stable=0 ready=2 lock=1
+FS lat=17.0 fwd=2.0 yerr=1.1 vxb=70.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=70.0 cy=-1.3 stop=0 stable=0 ready=2 lock=1
+FS lat=9.0 fwd=3.0 yerr=1.5 vxb=13.5 vyb=0.0 ffx=0.0 ffy=0.0 cx=13.5 cy=-0.3 stop=0 stable=0 ready=2 lock=1
+FS lat=9.0 fwd=3.0 yerr=0.3 vxb=13.5 vyb=0.0 ffx=0.0 ffy=0.0 cx=13.5 cy=-0.1 stop=0 stable=0 ready=2 lock=1
+FS lat=7.0 fwd=3.0 yerr=0.2 vxb=0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=7.0 fwd=3.0 yerr=0.7 vxb=0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=1.0 fwd=4.0 yerr=1.2 vxb=0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=1.0 fwd=4.0 yerr=0.8 vxb=0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=1.0 fwd=4.0 yerr=0.4 vxb=0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=1.0 fwd=4.0 yerr=0.3 vxb=0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-3.0 fwd=2.0 yerr=0.1 vxb=-0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-4.0 fwd=2.0 yerr=0.2 vxb=-0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-4.0 fwd=2.0 yerr=0.0 vxb=-0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-4.0 fwd=2.0 yerr=0.0 vxb=-0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-4.0 fwd=2.0 yerr=0.0 vxb=-0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-4.0 fwd=2.0 yerr=0.0 vxb=-0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-4.0 fwd=2.0 yerr=0.0 vxb=-0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-4.0 fwd=2.0 yerr=0.0 vxb=-0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-3.0 fwd=2.0 yerr=0.0 vxb=-0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-4.0 fwd=4.0 yerr=0.0 vxb=-0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-4.0 fwd=4.0 yerr=0.1 vxb=-0.0 vyb=0.0 ffx=161.0 ffy=-0.0 cx=161.0 cy=-0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-4.0 fwd=4.0 yerr=0.4 vxb=-0.0 vyb=0.0 ffx=161.0 ffy=-0.2 cx=161.0 cy=-0.2 stop=0 stable=1 ready=2 lock=1
+FS lat=-3.0 fwd=2.0 yerr=1.5 vxb=-0.0 vyb=0.0 ffx=161.0 ffy=-0.5 cx=161.0 cy=-0.5 stop=0 stable=1 ready=2 lock=1
+FS lat=-2.0 fwd=4.0 yerr=1.6 vxb=-0.0 vyb=0.0 ffx=161.0 ffy=-0.6 cx=161.0 cy=-0.6 stop=0 stable=1 ready=2 lock=1
+FS lat=-2.0 fwd=4.0 yerr=2.2 vxb=-0.0 vyb=0.0 ffx=161.0 ffy=-0.8 cx=161.0 cy=-0.8 stop=0 stable=1 ready=2 lock=1
+FS lat=-2.0 fwd=6.0 yerr=2.8 vxb=-0.0 vyb=0.0 ffx=160.9 ffy=-1.0 cx=160.9 cy=-1.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-2.0 fwd=6.0 yerr=3.8 vxb=-0.0 vyb=0.0 ffx=160.9 ffy=-1.4 cx=160.9 cy=-1.4 stop=0 stable=1 ready=2 lock=1
+FS lat=-1.0 fwd=5.0 yerr=2.8 vxb=-0.0 vyb=0.0 ffx=160.9 ffy=-1.0 cx=160.9 cy=-1.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-1.0 fwd=5.0 yerr=1.4 vxb=-0.0 vyb=0.0 ffx=161.0 ffy=-0.5 cx=161.0 cy=-0.5 stop=0 stable=1 ready=2 lock=1
+FS lat=2.0 fwd=5.0 yerr=1.0 vxb=0.0 vyb=0.0 ffx=161.0 ffy=0.4 cx=161.0 cy=0.4 stop=0 stable=1 ready=2 lock=1
+FS lat=2.0 fwd=5.0 yerr=1.1 vxb=0.0 vyb=0.0 ffx=161.0 ffy=0.4 cx=161.0 cy=0.4 stop=0 stable=1 ready=2 lock=1
+FS lat=2.0 fwd=4.0 yerr=1.3 vxb=0.0 vyb=0.0 ffx=161.0 ffy=0.5 cx=161.0 cy=0.5 stop=0 stable=1 ready=2 lock=1
+FS lat=2.0 fwd=4.0 yerr=1.1 vxb=0.0 vyb=0.0 ffx=161.0 ffy=0.4 cx=161.0 cy=0.4 stop=0 stable=1 ready=2 lock=1
+FS lat=6.0 fwd=6.0 yerr=1.2 vxb=0.0 vyb=0.0 ffx=161.0 ffy=0.4 cx=161.0 cy=0.4 stop=0 stable=1 ready=2 lock=1
+FS lat=6.0 fwd=7.0 yerr=1.9 vxb=0.0 vyb=0.0 ffx=161.0 ffy=0.7 cx=161.0 cy=0.7 stop=0 stable=1 ready=2 lock=1
+FS lat=6.0 fwd=7.0 yerr=2.2 vxb=0.0 vyb=0.0 ffx=161.0 ffy=0.8 cx=161.0 cy=0.8 stop=0 stable=1 ready=2 lock=1
+FS lat=6.0 fwd=7.0 yerr=2.0 vxb=0.0 vyb=0.0 ffx=161.0 ffy=0.7 cx=161.0 cy=0.7 stop=0 stable=1 ready=2 lock=1
+FS lat=9.0 fwd=7.0 yerr=1.4 vxb=13.5 vyb=0.0 ffx=161.0 ffy=0.5 cx=174.5 cy=0.9 stop=0 stable=0 ready=0 lock=1
+FS lat=9.0 fwd=6.0 yerr=1.0 vxb=13.5 vyb=0.0 ffx=161.0 ffy=0.4 cx=174.5 cy=0.6 stop=0 stable=0 ready=0 lock=1
+FS lat=9.0 fwd=6.0 yerr=0.8 vxb=13.5 vyb=0.0 ffx=161.0 ffy=0.2 cx=174.5 cy=0.4 stop=0 stable=0 ready=0 lock=1
+FS lat=9.0 fwd=6.0 yerr=0.7 vxb=13.5 vyb=0.0 ffx=161.0 ffy=0.3 cx=174.5 cy=0.4 stop=0 stable=0 ready=0 lock=1
+FS lat=8.0 fwd=7.0 yerr=1.3 vxb=0.0 vyb=0.0 ffx=161.0 ffy=0.5 cx=161.0 cy=0.5 stop=0 stable=1 ready=0 lock=1
+FS lat=8.0 fwd=10.0 yerr=2.0 vxb=0.0 vyb=35.0 ffx=161.0 ffy=0.7 cx=159.8 cy=35.7 stop=0 stable=0 ready=0 lock=1
+FS lat=8.0 fwd=10.0 yerr=1.9 vxb=0.0 vyb=35.0 ffx=161.0 ffy=0.7 cx=159.8 cy=35.7 stop=0 stable=0 ready=0 lock=1
+FS lat=8.0 fwd=10.0 yerr=1.6 vxb=0.0 vyb=35.0 ffx=161.0 ffy=0.6 cx=160.0 cy=35.6 stop=0 stable=0 ready=0 lock=1
+FS lat=9.0 fwd=10.0 yerr=3.0 vxb=13.5 vyb=35.0 ffx=160.9 ffy=1.1 cx=172.6 cy=36.8 stop=0 stable=0 ready=0 lock=1
+FS lat=11.0 fwd=13.0 yerr=5.4 vxb=49.5 vyb=80.0 ffx=160.8 ffy=2.0 cx=202.6 cy=86.2 stop=0 stable=0 ready=0 lock=1
+FS lat=11.0 fwd=13.0 yerr=4.7 vxb=49.5 vyb=80.0 ffx=144.8 ffy=1.5 cx=187.6 cy=85.3 stop=0 stable=0 ready=0 lock=1
+FS lat=11.0 fwd=13.0 yerr=4.1 vxb=49.5 vyb=80.0 ffx=112.6 ffy=1.0 cx=156.3 cy=84.4 stop=0 stable=0 ready=0 lock=1
+FS lat=14.0 fwd=13.0 yerr=2.9 vxb=70.0 vyb=80.0 ffx=48.3 ffy=0.3 cx=114.1 cy=83.8 stop=0 stable=0 ready=0 lock=1
+FS lat=13.0 fwd=10.0 yerr=1.1 vxb=70.0 vyb=35.0 ffx=0.0 ffy=0.0 cx=69.3 cy=36.4 stop=0 stable=0 ready=0 lock=1
+FS lat=13.0 fwd=10.0 yerr=0.0 vxb=70.0 vyb=35.0 ffx=0.0 ffy=0.0 cx=70.0 cy=35.0 stop=0 stable=0 ready=0 lock=1
+FS lat=11.0 fwd=11.0 yerr=1.4 vxb=49.5 vyb=57.8 ffx=0.0 ffy=0.0 cx=50.9 cy=56.5 stop=0 stable=0 ready=0 lock=1
+FS lat=11.0 fwd=11.0 yerr=1.3 vxb=49.5 vyb=57.8 ffx=0.0 ffy=0.0 cx=50.8 cy=56.6 stop=0 stable=0 ready=0 lock=1
+FS lat=9.0 fwd=14.0 yerr=0.5 vxb=13.5 vyb=80.0 ffx=0.0 ffy=0.0 cx=14.2 cy=79.9 stop=0 stable=0 ready=0 lock=1
+FS lat=9.0 fwd=14.0 yerr=0.5 vxb=13.5 vyb=80.0 ffx=0.0 ffy=0.0 cx=12.8 cy=80.1 stop=0 stable=0 ready=0 lock=1
+FS lat=-3.0 fwd=13.0 yerr=0.3 vxb=-0.0 vyb=80.0 ffx=0.0 ffy=0.0 cx=-0.5 cy=80.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-3.0 fwd=13.0 yerr=0.0 vxb=-0.0 vyb=80.0 ffx=0.0 ffy=0.0 cx=0.0 cy=80.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-5.0 fwd=10.0 yerr=0.7 vxb=-0.0 vyb=35.0 ffx=0.0 ffy=0.0 cx=0.4 cy=35.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-5.0 fwd=10.0 yerr=0.8 vxb=-0.0 vyb=35.0 ffx=0.0 ffy=0.0 cx=0.5 cy=35.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-12.0 fwd=6.0 yerr=0.9 vxb=-70.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=-70.0 cy=1.1 stop=0 stable=0 ready=0 lock=1
+FS lat=-12.0 fwd=6.0 yerr=0.6 vxb=-70.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=-70.0 cy=0.8 stop=0 stable=0 ready=0 lock=1
+FS lat=-15.0 fwd=5.0 yerr=0.4 vxb=-70.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=-70.0 cy=0.5 stop=0 stable=0 ready=0 lock=1
+FS lat=-15.0 fwd=5.0 yerr=0.0 vxb=-70.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=-70.0 cy=0.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-16.0 fwd=2.0 yerr=0.4 vxb=-70.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=-70.0 cy=0.5 stop=0 stable=0 ready=0 lock=1
+FS lat=-14.0 fwd=-1.0 yerr=0.7 vxb=-70.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-70.0 cy=0.9 stop=0 stable=0 ready=0 lock=1
+FS lat=-14.0 fwd=-1.0 yerr=0.5 vxb=-70.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-70.0 cy=0.6 stop=0 stable=0 ready=0 lock=1
+FS lat=-14.0 fwd=-1.0 yerr=0.8 vxb=-70.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-70.0 cy=0.9 stop=0 stable=0 ready=0 lock=1
+FS lat=-14.0 fwd=-2.0 yerr=0.9 vxb=-70.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-70.0 cy=1.1 stop=0 stable=0 ready=0 lock=1
+FS lat=-13.0 fwd=-3.0 yerr=0.8 vxb=-70.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-70.0 cy=0.8 stop=0 stable=0 ready=0 lock=1
+FS lat=-13.0 fwd=-3.0 yerr=0.3 vxb=-70.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-70.0 cy=0.4 stop=0 stable=0 ready=0 lock=1
+FS lat=-13.0 fwd=-3.0 yerr=0.0 vxb=-70.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-70.0 cy=0.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=-7.0 yerr=0.2 vxb=-49.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-49.5 cy=-0.2 stop=0 stable=0 ready=0 lock=1
+FS lat=-10.0 fwd=-7.0 yerr=0.0 vxb=-30.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-30.0 cy=-0.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-10.0 fwd=-7.0 yerr=0.5 vxb=-30.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-30.0 cy=0.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-10.0 fwd=-7.0 yerr=1.1 vxb=-30.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-30.0 cy=0.6 stop=0 stable=0 ready=0 lock=1
+FS lat=-5.0 fwd=-8.0 yerr=0.5 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-5.0 fwd=-7.0 yerr=0.7 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-5.0 fwd=-7.0 yerr=0.2 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-5.0 fwd=-7.0 yerr=0.1 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-1.0 fwd=-8.0 yerr=0.3 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-1.0 fwd=-8.0 yerr=0.6 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-1.0 fwd=-8.0 yerr=0.5 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=1.0 fwd=-8.0 yerr=0.2 vxb=0.0 vyb=-0.0 ffx=0.1 ffy=100.0 cx=0.1 cy=100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=1.0 fwd=-8.0 yerr=0.1 vxb=0.0 vyb=-0.0 ffx=-0.0 ffy=100.0 cx=-0.0 cy=100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=1.0 fwd=-8.0 yerr=0.2 vxb=0.0 vyb=-0.0 ffx=-0.1 ffy=100.0 cx=-0.1 cy=100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=1.0 fwd=-8.0 yerr=0.3 vxb=0.0 vyb=-0.0 ffx=-0.1 ffy=100.0 cx=-0.1 cy=100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=0.0 fwd=-8.0 yerr=0.4 vxb=0.0 vyb=-0.0 ffx=-0.1 ffy=100.0 cx=-0.1 cy=100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=0.0 fwd=-8.0 yerr=0.6 vxb=0.0 vyb=-0.0 ffx=-0.2 ffy=100.0 cx=-0.2 cy=100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=0.0 fwd=-8.0 yerr=0.4 vxb=0.0 vyb=-0.0 ffx=-0.1 ffy=100.0 cx=-0.1 cy=100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=0.0 fwd=-8.0 yerr=0.9 vxb=0.0 vyb=-0.0 ffx=-0.2 ffy=100.0 cx=-0.2 cy=100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=0.0 fwd=-6.0 yerr=0.4 vxb=0.0 vyb=-0.0 ffx=-0.1 ffy=100.0 cx=-0.1 cy=100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-1.0 fwd=-8.0 yerr=0.3 vxb=-0.0 vyb=-0.0 ffx=-0.1 ffy=100.0 cx=-0.1 cy=100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-1.0 fwd=-8.0 yerr=0.2 vxb=-0.0 vyb=-0.0 ffx=-0.1 ffy=100.0 cx=-0.1 cy=100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-1.0 fwd=-8.0 yerr=0.6 vxb=-0.0 vyb=-0.0 ffx=-0.2 ffy=100.0 cx=-0.2 cy=100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-1.0 fwd=-9.0 yerr=0.6 vxb=-0.0 vyb=-15.8 ffx=-0.1 ffy=100.0 cx=-0.3 cy=84.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-1.0 fwd=-9.0 yerr=0.5 vxb=-0.0 vyb=-15.8 ffx=-0.1 ffy=100.0 cx=-0.3 cy=84.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-1.0 fwd=-9.0 yerr=0.4 vxb=-0.0 vyb=-15.8 ffx=-0.1 ffy=100.0 cx=-0.2 cy=84.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-1.0 fwd=-9.0 yerr=0.7 vxb=-0.0 vyb=-15.8 ffx=-0.2 ffy=100.0 cx=-0.4 cy=84.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-2.0 fwd=-9.0 yerr=0.6 vxb=-0.0 vyb=-15.8 ffx=-0.2 ffy=100.0 cx=-0.3 cy=84.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-2.0 fwd=-9.0 yerr=0.2 vxb=-0.0 vyb=-15.8 ffx=-0.1 ffy=100.0 cx=-0.1 cy=84.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-2.0 fwd=-9.0 yerr=0.2 vxb=-0.0 vyb=-15.8 ffx=-0.1 ffy=100.0 cx=-0.1 cy=84.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-2.0 fwd=-9.0 yerr=0.6 vxb=-0.0 vyb=-15.8 ffx=-0.1 ffy=100.0 cx=-0.3 cy=84.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-3.0 fwd=-10.0 yerr=0.6 vxb=-0.0 vyb=-35.0 ffx=-0.2 ffy=100.0 cx=-0.5 cy=65.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-3.0 fwd=-10.0 yerr=0.3 vxb=-0.0 vyb=-35.0 ffx=-0.1 ffy=100.0 cx=-0.3 cy=65.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-3.0 fwd=-10.0 yerr=0.8 vxb=-0.0 vyb=-35.0 ffx=-0.2 ffy=100.0 cx=-0.7 cy=65.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-4.0 fwd=-10.0 yerr=0.9 vxb=-0.0 vyb=-35.0 ffx=-0.2 ffy=100.0 cx=-0.8 cy=65.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-4.0 fwd=-10.0 yerr=1.3 vxb=-0.0 vyb=-35.0 ffx=-0.3 ffy=100.0 cx=-1.1 cy=65.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-5.0 fwd=-10.0 yerr=1.3 vxb=-0.0 vyb=-35.0 ffx=-0.3 ffy=100.0 cx=-1.1 cy=65.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-5.0 fwd=-10.0 yerr=0.8 vxb=-0.0 vyb=-35.0 ffx=-0.2 ffy=100.0 cx=-0.7 cy=65.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-5.0 fwd=-9.0 yerr=0.2 vxb=-0.0 vyb=-15.8 ffx=-0.0 ffy=100.0 cx=-0.1 cy=84.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-5.0 fwd=-9.0 yerr=0.1 vxb=-0.0 vyb=-15.8 ffx=-0.0 ffy=100.0 cx=-0.1 cy=84.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-4.0 fwd=-9.0 yerr=0.0 vxb=-0.0 vyb=-15.8 ffx=0.0 ffy=100.0 cx=0.0 cy=84.2 stop=0 stable=0 ready=0 lock=1
+FS lat=-4.0 fwd=-9.0 yerr=0.3 vxb=-0.0 vyb=-15.8 ffx=-0.1 ffy=100.0 cx=-0.2 cy=84.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-4.0 fwd=-9.0 yerr=0.7 vxb=-0.0 vyb=-15.8 ffx=-0.2 ffy=100.0 cx=-0.4 cy=84.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-4.0 fwd=-9.0 yerr=0.5 vxb=-0.0 vyb=-15.8 ffx=-0.1 ffy=100.0 cx=-0.2 cy=84.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-4.0 fwd=-9.0 yerr=0.5 vxb=-0.0 vyb=-15.8 ffx=-0.1 ffy=100.0 cx=-0.3 cy=84.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-4.0 fwd=-9.0 yerr=1.4 vxb=-0.0 vyb=-15.8 ffx=-0.4 ffy=100.0 cx=-0.8 cy=84.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-5.0 fwd=-8.0 yerr=1.8 vxb=-0.0 vyb=-0.0 ffx=-0.5 ffy=100.0 cx=-0.5 cy=100.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-5.0 fwd=-8.0 yerr=1.9 vxb=-0.0 vyb=-0.0 ffx=-0.5 ffy=100.0 cx=-0.5 cy=100.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-5.0 fwd=-6.0 yerr=1.7 vxb=-0.0 vyb=-0.0 ffx=-0.4 ffy=100.0 cx=-0.4 cy=100.0 stop=0 stable=1 ready=0 lock=1
+RO phi=207.5 tgt=0.0 err=152.5 rem=152.5 dir=1 fine=0 spd=80.0 rd=36.1 rvx=23.2 rvy=44.6 ffx=120.0 ffy=2.6 cx=72.3 cy=84.1 relx=20.0 rely=30.0 visage=0
+RO phi=209.2 tgt=0.0 err=150.8 rem=150.8 dir=1 fine=0 spd=80.0 rd=42.1 rvx=39.0 rvy=69.9 ffx=120.0 ffy=-2.7 cx=89.1 cy=106.1 relx=20.0 rely=37.0 visage=33
+RO phi=216.4 tgt=0.0 err=143.6 rem=143.6 dir=1 fine=0 spd=80.0 rd=42.1 rvx=47.5 rvy=64.4 ffx=120.0 ffy=-3.1 cx=103.1 cy=108.8 relx=20.0 rely=37.0 visage=85
+RO phi=186.8 tgt=0.0 err=173.2 rem=173.2 dir=1 fine=0 spd=80.0 rd=37.3 rvx=6.7 rvy=56.3 ffx=120.0 ffy=-2.1 cx=47.3 cy=63.7 relx=-5.0 rely=37.0 visage=20
+RO phi=192.8 tgt=0.0 err=167.2 rem=167.2 dir=1 fine=0 spd=80.0 rd=37.3 rvx=12.6 rvy=55.3 ffx=120.0 ffy=-0.1 cx=54.6 cy=72.9 relx=-5.0 rely=37.0 visage=74
+RO phi=189.7 tgt=0.0 err=170.3 rem=170.3 dir=1 fine=0 spd=80.0 rd=35.9 rvx=8.4 rvy=48.8 ffx=120.0 ffy=1.2 cx=49.5 cy=63.5 relx=-8.0 rely=35.0 visage=47
+RO phi=189.9 tgt=0.0 err=170.1 rem=170.1 dir=1 fine=0 spd=80.0 rd=35.9 rvx=8.5 rvy=48.8 ffx=120.0 ffy=1.4 cx=49.7 cy=63.9 relx=-8.0 rely=35.0 visage=97
+RO phi=170.8 tgt=0.0 err=-170.8 rem=189.2 dir=1 fine=0 spd=80.0 rd=31.8 rvx=-4.6 rvy=28.5 ffx=120.0 ffy=1.3 cx=36.4 cy=16.9 relx=-15.0 rely=28.0 visage=23
+RO phi=165.7 tgt=0.0 err=-165.7 rem=194.3 dir=1 fine=0 spd=80.0 rd=31.8 rvx=-7.1 rvy=27.9 ffx=120.0 ffy=1.2 cx=35.4 cy=9.4 relx=-15.0 rely=28.0 visage=75
+RO phi=159.4 tgt=0.0 err=-159.4 rem=200.6 dir=1 fine=0 spd=80.0 rd=31.8 rvx=-10.1 rvy=27.0 ffx=120.0 ffy=0.1 cx=35.0 cy=-1.0 relx=-15.0 rely=28.0 visage=126
+RO phi=151.2 tgt=0.0 err=-151.2 rem=208.8 dir=1 fine=0 spd=80.0 rd=31.8 rvx=-13.9 rvy=25.3 ffx=120.0 ffy=0.3 cx=36.0 cy=-12.9 relx=-15.0 rely=28.0 visage=179
+RO phi=161.1 tgt=0.0 err=-161.1 rem=198.9 dir=1 fine=0 spd=80.0 rd=25.5 rvx=0.0 rvy=0.0 ffx=120.0 ffy=-0.4 cx=44.3 cy=-26.3 relx=-5.0 rely=25.0 visage=34
+RO phi=168.6 tgt=0.0 err=-168.6 rem=191.4 dir=1 fine=0 spd=80.0 rd=26.0 rvx=0.0 rvy=0.0 ffx=120.0 ffy=-1.1 cx=41.6 cy=-16.9 relx=1.0 rely=26.0 visage=4
+RO phi=164.4 tgt=0.0 err=-164.4 rem=195.6 dir=1 fine=0 spd=80.0 rd=26.0 rvx=0.0 rvy=0.0 ffx=120.0 ffy=-1.2 cx=42.9 cy=-22.7 relx=1.0 rely=26.0 visage=57
+RO phi=162.4 tgt=0.0 err=-162.4 rem=197.6 dir=1 fine=0 spd=80.0 rd=26.0 rvx=0.0 rvy=0.0 ffx=120.0 ffy=-0.3 cx=43.8 cy=-24.5 relx=1.0 rely=26.0 visage=107
+RO phi=198.4 tgt=0.0 err=161.6 rem=161.6 dir=1 fine=0 spd=80.0 rd=24.2 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-75.9 cy=25.2 relx=15.0 rely=19.0 visage=33
+RO phi=205.2 tgt=0.0 err=154.8 rem=154.8 dir=1 fine=0 spd=80.0 rd=22.7 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-72.4 cy=34.0 relx=15.0 rely=17.0 visage=15
+RO phi=211.8 tgt=0.0 err=148.2 rem=148.2 dir=1 fine=0 spd=80.0 rd=22.7 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-68.0 cy=42.2 relx=15.0 rely=17.0 visage=65
+RO phi=221.3 tgt=0.0 err=138.7 rem=138.7 dir=1 fine=0 spd=80.0 rd=22.7 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-60.1 cy=52.8 relx=15.0 rely=17.0 visage=117
+RO phi=233.7 tgt=0.0 err=126.3 rem=126.3 dir=1 fine=0 spd=80.0 rd=24.1 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-47.4 cy=64.5 relx=16.0 rely=18.0 visage=43
+RO phi=242.0 tgt=0.0 err=118.0 rem=118.0 dir=1 fine=0 spd=80.0 rd=22.8 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-37.6 cy=70.6 relx=14.0 rely=18.0 visage=14
+RO phi=253.0 tgt=0.0 err=107.0 rem=107.0 dir=1 fine=0 spd=80.0 rd=22.8 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-23.3 cy=76.5 relx=14.0 rely=18.0 visage=65
+RO phi=223.5 tgt=0.0 err=136.5 rem=136.5 dir=1 fine=0 spd=80.0 rd=22.1 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-58.1 cy=55.0 relx=-2.0 rely=22.0 visage=5
+RO phi=233.8 tgt=0.0 err=126.2 rem=126.2 dir=1 fine=0 spd=80.0 rd=22.1 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-47.3 cy=64.5 relx=-2.0 rely=22.0 visage=55
+RO phi=231.6 tgt=0.0 err=128.4 rem=128.4 dir=1 fine=0 spd=80.0 rd=21.6 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-49.7 cy=62.7 relx=-5.0 rely=21.0 visage=27
+RO phi=233.2 tgt=0.0 err=126.8 rem=126.8 dir=1 fine=0 spd=80.0 rd=21.6 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-48.0 cy=64.0 relx=-5.0 rely=21.0 visage=77
+RO phi=205.0 tgt=0.0 err=155.0 rem=155.0 dir=1 fine=0 spd=80.0 rd=19.2 rvx=-14.4 rvy=-30.8 ffx=0.0 ffy=0.0 cx=-86.9 cy=3.1 relx=-12.0 rely=15.0 visage=4
+RO phi=199.0 tgt=0.0 err=161.0 rem=161.0 dir=1 fine=0 spd=80.0 rd=19.2 rvx=-11.0 rvy=-32.1 ffx=0.0 ffy=0.0 cx=-86.7 cy=-6.1 relx=-12.0 rely=15.0 visage=57
+RO phi=193.2 tgt=0.0 err=166.8 rem=166.8 dir=1 fine=0 spd=80.0 rd=18.6 rvx=-8.5 rvy=-36.0 ffx=0.0 ffy=0.0 cx=-86.3 cy=-17.7 relx=-11.0 rely=15.0 visage=32
+RO phi=182.8 tgt=0.0 err=177.2 rem=177.2 dir=1 fine=0 spd=80.0 rd=18.6 rvx=-1.8 rvy=-37.0 ffx=0.0 ffy=0.0 cx=-81.7 cy=-33.1 relx=-11.0 rely=15.0 visage=84
+RO phi=184.6 tgt=0.0 err=175.4 rem=175.4 dir=1 fine=0 spd=80.0 rd=13.0 rvx=-5.2 rvy=-64.8 ffx=0.0 ffy=0.0 cx=-85.0 cy=-58.4 relx=-5.0 rely=12.0 visage=19
+RO phi=183.5 tgt=0.0 err=176.5 rem=176.5 dir=1 fine=0 spd=80.0 rd=12.4 rvx=-4.2 rvy=-68.0 ffx=0.0 ffy=0.0 cx=-84.0 cy=-63.1 relx=-3.0 rely=12.0 visage=0
+RO phi=176.1 tgt=0.0 err=-176.1 rem=183.9 dir=1 fine=0 spd=80.0 rd=12.4 rvx=4.6 rvy=-68.0 ffx=0.0 ffy=0.0 cx=-75.2 cy=-73.4 relx=-3.0 rely=12.0 visage=51
+RO phi=169.3 tgt=0.0 err=-169.3 rem=190.7 dir=1 fine=0 spd=80.0 rd=12.4 rvx=12.7 rvy=-67.0 ffx=0.0 ffy=0.0 cx=-65.9 cy=-81.8 relx=-3.0 rely=12.0 visage=105
+RO phi=211.0 tgt=0.0 err=149.0 rem=149.0 dir=1 fine=0 spd=80.0 rd=13.9 rvx=-31.2 rvy=-51.9 ffx=0.0 ffy=0.0 cx=-99.8 cy=-10.7 relx=7.0 rely=12.0 visage=32
+RO phi=219.2 tgt=0.0 err=140.8 rem=140.8 dir=1 fine=0 spd=80.0 rd=12.8 rvx=-41.7 rvy=-51.1 ffx=0.0 ffy=0.0 cx=-103.7 cy=-0.5 relx=8.0 rely=10.0 visage=6
+RO phi=222.6 tgt=0.0 err=137.4 rem=137.4 dir=1 fine=0 spd=80.0 rd=12.8 rvx=-44.7 rvy=-48.6 ffx=0.0 ffy=0.0 cx=-103.5 cy=5.6 relx=8.0 rely=10.0 visage=57
+RO phi=229.8 tgt=0.0 err=130.2 rem=130.2 dir=1 fine=0 spd=80.0 rd=12.8 rvx=-50.4 rvy=-42.5 ffx=0.0 ffy=0.0 cx=-102.0 cy=18.6 relx=8.0 rely=10.0 visage=111
+RO phi=238.7 tgt=0.0 err=121.3 rem=121.3 dir=1 fine=0 spd=80.0 rd=17.8 rvx=-35.0 rvy=-21.3 ffx=0.0 ffy=0.0 cx=-76.6 cy=47.0 relx=11.0 rely=14.0 visage=41
+RO phi=245.0 tgt=0.0 err=115.0 rem=115.0 dir=1 fine=0 spd=80.0 rd=18.0 rvx=-36.1 rvy=-16.9 ffx=0.0 ffy=0.0 cx=-70.0 cy=55.6 relx=10.0 rely=15.0 visage=22
+RO phi=254.6 tgt=0.0 err=105.4 rem=105.4 dir=1 fine=0 spd=80.0 rd=18.0 rvx=-38.4 rvy=-10.6 ffx=0.0 ffy=0.0 cx=-59.7 cy=66.5 relx=10.0 rely=15.0 visage=73
+RO phi=242.2 tgt=0.0 err=117.8 rem=117.8 dir=1 fine=0 spd=80.0 rd=24.3 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-37.3 cy=70.8 relx=4.0 rely=24.0 visage=0
+RO phi=252.2 tgt=0.0 err=107.8 rem=107.8 dir=1 fine=0 spd=80.0 rd=24.3 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-24.5 cy=76.2 relx=4.0 rely=24.0 visage=53
+RO phi=256.7 tgt=0.0 err=103.3 rem=103.3 dir=1 fine=0 spd=80.0 rd=27.2 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-18.4 cy=77.9 relx=3.0 rely=27.0 visage=21
+RO phi=262.2 tgt=0.0 err=97.8 rem=97.8 dir=1 fine=0 spd=80.0 rd=27.2 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-10.8 cy=79.3 relx=3.0 rely=27.0 visage=75
+RO phi=240.0 tgt=0.0 err=120.0 rem=120.0 dir=1 fine=0 spd=80.0 rd=26.2 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-40.1 cy=69.3 relx=-8.0 rely=25.0 visage=10
+RO phi=240.4 tgt=0.0 err=119.6 rem=119.6 dir=1 fine=0 spd=80.0 rd=26.2 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-39.6 cy=69.5 relx=-8.0 rely=25.0 visage=62
+RO phi=233.7 tgt=0.0 err=126.3 rem=126.3 dir=1 fine=0 spd=80.0 rd=24.7 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-47.3 cy=64.5 relx=-9.0 rely=23.0 visage=28
+RO phi=228.8 tgt=0.0 err=131.2 rem=131.2 dir=1 fine=0 spd=80.0 rd=24.7 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-52.7 cy=60.2 relx=-9.0 rely=23.0 visage=81
+RO phi=232.1 tgt=0.0 err=127.9 rem=127.9 dir=1 fine=0 spd=80.0 rd=25.5 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-49.2 cy=63.1 relx=-5.0 rely=25.0 visage=5
+RO phi=223.8 tgt=0.0 err=136.2 rem=136.2 dir=1 fine=0 spd=80.0 rd=25.5 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-57.8 cy=55.3 relx=-5.0 rely=25.0 visage=59
+RO phi=223.0 tgt=0.0 err=137.0 rem=137.0 dir=1 fine=0 spd=80.0 rd=23.2 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-58.5 cy=54.5 relx=-3.0 rely=23.0 visage=42
+RO phi=219.4 tgt=0.0 err=140.6 rem=140.6 dir=1 fine=0 spd=80.0 rd=23.2 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-61.8 cy=50.8 relx=-3.0 rely=23.0 visage=92
+RO phi=253.3 tgt=0.0 err=106.7 rem=106.7 dir=1 fine=0 spd=80.0 rd=25.1 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-23.0 cy=76.6 relx=12.0 rely=22.0 visage=16
+RO phi=256.9 tgt=0.0 err=103.1 rem=103.1 dir=1 fine=0 spd=80.0 rd=26.1 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-18.1 cy=77.9 relx=14.0 rely=22.0 visage=0
+RO phi=261.8 tgt=0.0 err=98.2 rem=98.2 dir=1 fine=0 spd=80.0 rd=26.1 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-10.2 cy=79.3 relx=14.0 rely=22.0 visage=55
+RO phi=271.1 tgt=0.0 err=88.9 rem=88.9 dir=1 fine=0 spd=80.0 rd=26.1 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=1.6 cy=80.0 relx=14.0 rely=22.0 visage=109
+RO phi=286.4 tgt=0.0 err=73.6 rem=73.6 dir=1 fine=0 spd=80.0 rd=28.4 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=22.6 cy=76.7 relx=18.0 rely=22.0 visage=42
+RO phi=294.2 tgt=0.0 err=65.8 rem=65.8 dir=1 fine=0 spd=80.0 rd=29.2 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=32.8 cy=73.0 relx=18.0 rely=23.0 visage=15
+RO phi=304.1 tgt=0.0 err=55.9 rem=55.9 dir=1 fine=0 spd=80.0 rd=29.2 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=44.8 cy=66.3 relx=18.0 rely=23.0 visage=65
+RO phi=296.4 tgt=0.0 err=63.6 rem=63.6 dir=1 fine=0 spd=80.0 rd=28.5 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=35.5 cy=71.7 relx=9.0 rely=27.0 visage=0
+RO phi=305.4 tgt=0.0 err=54.6 rem=54.6 dir=1 fine=0 spd=80.0 rd=28.5 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=46.3 cy=65.2 relx=9.0 rely=27.0 visage=53
+RO phi=306.2 tgt=0.0 err=53.8 rem=53.8 dir=1 fine=0 spd=80.0 rd=28.6 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=47.2 cy=64.6 relx=6.0 rely=28.0 visage=28
+RO phi=312.3 tgt=0.0 err=47.7 rem=47.7 dir=1 fine=0 spd=80.0 rd=28.6 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=53.8 cy=59.2 relx=6.0 rely=28.0 visage=78
+RO phi=288.9 tgt=0.0 err=71.1 rem=71.1 dir=1 fine=0 spd=80.0 rd=27.9 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=26.0 cy=75.7 relx=-7.0 rely=27.0 visage=4
+RO phi=291.1 tgt=0.0 err=68.9 rem=68.9 dir=1 fine=0 spd=80.0 rd=27.9 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=28.8 cy=74.7 relx=-7.0 rely=27.0 visage=56
+RO phi=288.0 tgt=0.0 err=72.0 rem=72.0 dir=1 fine=0 spd=80.0 rd=27.2 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=24.8 cy=76.1 relx=-8.0 rely=26.0 visage=28
+RO phi=285.0 tgt=0.0 err=75.0 rem=75.0 dir=1 fine=0 spd=80.0 rd=27.2 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=20.7 cy=77.3 relx=-8.0 rely=26.0 visage=79
+RO phi=284.6 tgt=0.0 err=75.4 rem=75.4 dir=1 fine=0 spd=80.0 rd=23.5 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=20.2 cy=77.4 relx=-5.0 rely=23.0 visage=14
+RO phi=278.5 tgt=0.0 err=81.5 rem=81.5 dir=1 fine=0 spd=80.0 rd=23.5 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=11.8 cy=79.1 relx=-5.0 rely=23.0 visage=64
+RO phi=274.3 tgt=0.0 err=85.7 rem=85.7 dir=1 fine=0 spd=80.0 rd=21.4 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=6.0 cy=79.8 relx=-4.0 rely=21.0 visage=32
+RO phi=271.3 tgt=0.0 err=88.7 rem=88.7 dir=1 fine=0 spd=80.0 rd=21.4 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=1.8 cy=80.0 relx=-4.0 rely=21.0 visage=85
+RO phi=299.1 tgt=0.0 err=60.9 rem=60.9 dir=1 fine=0 spd=80.0 rd=20.2 rvx=-25.1 rvy=14.0 ffx=0.0 ffy=0.0 cx=13.7 cy=83.9 relx=7.0 rely=19.0 visage=16
+RO phi=297.2 tgt=0.0 err=62.8 rem=62.8 dir=1 fine=0 spd=80.0 rd=20.2 rvx=-25.6 rvy=13.2 ffx=0.0 ffy=0.0 cx=11.1 cy=84.3 relx=7.0 rely=19.0 visage=77
+RO phi=307.8 tgt=0.0 err=52.2 rem=52.2 dir=1 fine=0 spd=80.0 rd=20.6 rvx=-21.4 rvy=16.6 ffx=0.0 ffy=0.0 cx=27.7 cy=79.8 relx=10.0 rely=18.0 visage=43
+RO phi=311.6 tgt=0.0 err=48.4 rem=48.4 dir=1 fine=0 spd=80.0 rd=20.6 rvx=-20.2 rvy=18.0 ffx=0.0 ffy=0.0 cx=32.9 cy=77.8 relx=10.0 rely=18.0 visage=94
+RO phi=326.9 tgt=0.0 err=33.1 rem=33.1 dir=1 fine=0 spd=79.6 rd=22.8 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=66.7 cy=43.5 relx=14.0 rely=18.0 visage=32
+RO phi=336.2 tgt=0.0 err=23.8 rem=23.8 dir=1 fine=0 spd=77.8 rd=22.8 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=71.1 cy=31.4 relx=14.0 rely=18.0 visage=85
+RO phi=346.2 tgt=0.0 err=13.8 rem=13.8 dir=1 fine=0 spd=75.8 rd=22.8 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=73.6 cy=18.1 relx=14.0 rely=18.0 visage=138
+ROH x=2.6 y=202.3 relx=14.0 rely=18.0 phi=351.6 tgt=0.0 visage=166
+RY yaw=138.2 target=180.0 err=41.8
+RY yaw=144.7 target=180.0 err=35.3
+RY yaw=148.1 target=180.0 err=31.9
+RY yaw=150.7 target=180.0 err=29.3
+RY yaw=155.1 target=180.0 err=24.9
+RY yaw=161.6 target=180.0 err=18.4
+RY yaw=168.2 target=180.0 err=11.8
+RYD yaw=173.3 target=180.0 err=6.7 x=12.1 y=211.7
+RT relx=-1.0 rely=31.0 dist_ok=1 diag_ok=1 centered=1 diag=1 yaw=175.4 target=180.0
+RT relx=-14.0 rely=26.0 dist_ok=1 diag_ok=1 centered=0 diag=1 yaw=176.9 target=180.0
+RT relx=-14.0 rely=26.0 dist_ok=1 diag_ok=1 centered=0 diag=1 yaw=176.8 target=180.0
+RT relx=-16.0 rely=25.0 dist_ok=1 diag_ok=1 centered=0 diag=1 yaw=176.5 target=180.0
+RT relx=-16.0 rely=25.0 dist_ok=1 diag_ok=1 centered=0 diag=1 yaw=175.9 target=180.0
+RT relx=-16.0 rely=24.0 dist_ok=1 diag_ok=1 centered=0 diag=1 yaw=176.0 target=180.0
+RT relx=-16.0 rely=24.0 dist_ok=1 diag_ok=1 centered=0 diag=1 yaw=176.0 target=180.0
+RT relx=-16.0 rely=24.0 dist_ok=1 diag_ok=1 centered=0 diag=1 yaw=177.1 target=180.0
+RT relx=-16.0 rely=24.0 dist_ok=1 diag_ok=1 centered=0 diag=1 yaw=178.6 target=180.0
+RT relx=-16.0 rely=24.0 dist_ok=1 diag_ok=1 centered=0 diag=1 yaw=178.5 target=180.0
+RT relx=-16.0 rely=24.0 dist_ok=1 diag_ok=1 centered=0 diag=1 yaw=178.7 target=180.0
+RT relx=-14.0 rely=23.0 dist_ok=1 diag_ok=1 centered=0 diag=1 yaw=178.2 target=180.0
+RT relx=-14.0 rely=23.0 dist_ok=1 diag_ok=1 centered=0 diag=1 yaw=178.5 target=180.0
+RT relx=-10.0 rely=23.0 dist_ok=1 diag_ok=1 centered=1 diag=1 yaw=177.9 target=180.0
+RT relx=-10.0 rely=23.0 dist_ok=1 diag_ok=1 centered=1 diag=1 yaw=176.5 target=180.0
+RT relx=-8.0 rely=23.0 dist_ok=1 diag_ok=1 centered=1 diag=1 yaw=176.1 target=180.0
+RT relx=-8.0 rely=23.0 dist_ok=1 diag_ok=1 centered=1 diag=1 yaw=175.8 target=180.0
+RTR yaw=180.0 x=13.4 y=208.8
+FS lat=-2.0 fwd=-5.0 yerr=4.3 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-2.0 fwd=-5.0 yerr=4.3 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-3.0 fwd=-5.0 yerr=4.3 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-3.0 fwd=-5.0 yerr=4.2 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-3.0 fwd=-5.0 yerr=4.1 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-3.0 fwd=-5.0 yerr=3.4 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-2.0 fwd=-5.0 yerr=1.8 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-2.0 fwd=-5.0 yerr=0.6 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-3.0 fwd=-4.0 yerr=0.0 vxb=-0.0 vyb=-0.0 ffx=-0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-4.0 fwd=-5.0 yerr=0.1 vxb=-0.0 vyb=-0.0 ffx=-0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-4.0 fwd=-5.0 yerr=0.1 vxb=-0.0 vyb=-0.0 ffx=-0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-4.0 fwd=-5.0 yerr=0.1 vxb=-0.0 vyb=-0.0 ffx=-0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-6.0 fwd=-4.0 yerr=0.1 vxb=-0.0 vyb=-0.0 ffx=-0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-6.0 fwd=-5.0 yerr=0.1 vxb=-0.0 vyb=-0.0 ffx=-0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-6.0 fwd=-5.0 yerr=0.1 vxb=-0.0 vyb=-0.0 ffx=161.0 ffy=-0.0 cx=161.0 cy=-0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-7.0 fwd=-4.0 yerr=0.6 vxb=-0.0 vyb=-0.0 ffx=161.0 ffy=-0.2 cx=161.0 cy=-0.2 stop=0 stable=1 ready=2 lock=1
+FS lat=-7.0 fwd=-4.0 yerr=1.3 vxb=-0.0 vyb=-0.0 ffx=161.0 ffy=-0.5 cx=161.0 cy=-0.5 stop=0 stable=1 ready=2 lock=1
+FS lat=-7.0 fwd=-7.0 yerr=1.6 vxb=-0.0 vyb=-0.0 ffx=161.0 ffy=-0.6 cx=161.0 cy=-0.6 stop=0 stable=1 ready=2 lock=1
+FS lat=-7.0 fwd=-7.0 yerr=0.8 vxb=-0.0 vyb=-0.0 ffx=161.0 ffy=-0.3 cx=161.0 cy=-0.3 stop=0 stable=1 ready=2 lock=1
+FS lat=-9.0 fwd=-5.0 yerr=0.4 vxb=-13.5 vyb=-0.0 ffx=161.0 ffy=-0.1 cx=174.5 cy=-0.2 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-5.0 yerr=0.7 vxb=-13.5 vyb=-0.0 ffx=161.0 ffy=-0.3 cx=174.5 cy=-0.4 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-7.0 yerr=1.1 vxb=-13.5 vyb=-0.0 ffx=161.0 ffy=0.4 cx=174.5 cy=0.7 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-7.0 yerr=2.1 vxb=-13.5 vyb=-0.0 ffx=161.0 ffy=0.8 cx=174.5 cy=1.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-8.0 yerr=1.6 vxb=-13.5 vyb=-0.0 ffx=161.0 ffy=0.6 cx=174.5 cy=1.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-8.0 yerr=1.4 vxb=-13.5 vyb=-0.0 ffx=161.0 ffy=0.5 cx=174.5 cy=0.9 stop=0 stable=0 ready=0 lock=1
+FS lat=-10.0 fwd=-8.0 yerr=1.2 vxb=-30.0 vyb=-0.0 ffx=161.0 ffy=0.4 cx=191.0 cy=1.1 stop=0 stable=0 ready=0 lock=1
+FS lat=-10.0 fwd=-8.0 yerr=3.4 vxb=-30.0 vyb=-0.0 ffx=160.9 ffy=1.2 cx=190.9 cy=3.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=-9.0 yerr=2.8 vxb=-49.5 vyb=-15.8 ffx=161.0 ffy=1.0 cx=209.6 cy=19.2 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=-9.0 yerr=0.8 vxb=-49.5 vyb=-15.8 ffx=161.0 ffy=0.3 cx=210.3 cy=16.7 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=-9.0 yerr=0.7 vxb=-49.5 vyb=-15.8 ffx=161.0 ffy=-0.3 cx=210.7 cy=14.9 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=-9.0 yerr=1.3 vxb=-49.5 vyb=-15.8 ffx=161.0 ffy=-0.5 cx=210.8 cy=14.1 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=-11.0 yerr=0.5 vxb=-49.5 vyb=-57.8 ffx=161.0 ffy=-0.2 cx=211.0 cy=57.2 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=-11.0 yerr=0.1 vxb=-49.5 vyb=-57.8 ffx=161.0 ffy=-0.1 cx=210.6 cy=57.6 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=-12.0 yerr=2.0 vxb=-49.5 vyb=-80.0 ffx=161.0 ffy=0.7 cx=207.7 cy=82.4 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=-12.0 yerr=3.5 vxb=-49.5 vyb=-80.0 ffx=160.9 ffy=1.3 cx=205.4 cy=84.2 stop=0 stable=0 ready=0 lock=1
+FS lat=-10.0 fwd=-15.0 yerr=6.0 vxb=-30.0 vyb=-80.0 ffx=160.8 ffy=2.2 cx=182.2 cy=84.9 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-15.0 yerr=6.9 vxb=-13.5 vyb=-80.0 ffx=160.7 ffy=2.5 cx=164.5 cy=83.5 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-15.0 yerr=7.8 vxb=-13.5 vyb=-80.0 ffx=160.6 ffy=2.8 cx=163.1 cy=83.9 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-15.0 yerr=7.4 vxb=-13.5 vyb=-80.0 ffx=160.7 ffy=2.7 cx=163.8 cy=83.7 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-15.0 yerr=3.7 vxb=-13.5 vyb=-80.0 ffx=160.9 ffy=1.4 cx=169.2 cy=82.1 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-15.0 yerr=3.3 vxb=-13.5 vyb=-80.0 ffx=160.9 ffy=1.2 cx=169.8 cy=81.8 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-15.0 yerr=0.9 vxb=-13.5 vyb=-80.0 ffx=161.0 ffy=0.3 cx=173.2 cy=80.5 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-15.0 yerr=0.1 vxb=-13.5 vyb=-80.0 ffx=136.8 ffy=0.0 cx=150.3 cy=80.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=-14.0 yerr=1.3 vxb=-49.5 vyb=-80.0 ffx=96.6 ffy=-0.3 cx=147.9 cy=78.5 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=-15.0 yerr=1.6 vxb=-49.5 vyb=-80.0 ffx=56.3 ffy=-0.2 cx=108.0 cy=78.4 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=-15.0 yerr=1.5 vxb=-49.5 vyb=-80.0 ffx=-0.0 ffy=0.0 cx=51.6 cy=78.7 stop=0 stable=0 ready=0 lock=1
+FS lat=-12.0 fwd=-13.0 yerr=0.4 vxb=-70.0 vyb=-80.0 ffx=-0.0 ffy=0.0 cx=70.6 cy=79.5 stop=0 stable=0 ready=0 lock=1
+FS lat=-12.0 fwd=-13.0 yerr=0.2 vxb=-70.0 vyb=-80.0 ffx=0.0 ffy=0.0 cx=69.7 cy=80.2 stop=0 stable=0 ready=0 lock=1
+FS lat=-13.0 fwd=-13.0 yerr=1.1 vxb=-70.0 vyb=-80.0 ffx=0.0 ffy=0.0 cx=68.5 cy=81.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-13.0 fwd=-13.0 yerr=1.3 vxb=-70.0 vyb=-80.0 ffx=0.0 ffy=0.0 cx=68.2 cy=81.6 stop=0 stable=0 ready=0 lock=1
+FS lat=-8.0 fwd=-11.0 yerr=2.2 vxb=-0.0 vyb=-57.8 ffx=0.0 ffy=0.0 cx=-2.2 cy=57.7 stop=0 stable=0 ready=0 lock=1
+FS lat=-8.0 fwd=-11.0 yerr=2.7 vxb=-0.0 vyb=-57.8 ffx=0.0 ffy=0.0 cx=-2.8 cy=57.7 stop=0 stable=0 ready=0 lock=1
+FS lat=-7.0 fwd=-11.0 yerr=2.5 vxb=-0.0 vyb=-57.8 ffx=0.0 ffy=0.0 cx=-2.5 cy=57.7 stop=0 stable=0 ready=0 lock=1
+FS lat=-7.0 fwd=-11.0 yerr=3.2 vxb=-0.0 vyb=-57.8 ffx=0.0 ffy=0.0 cx=-3.2 cy=57.7 stop=0 stable=0 ready=0 lock=1
+FS lat=2.0 fwd=-9.0 yerr=3.0 vxb=0.0 vyb=-15.8 ffx=0.0 ffy=0.0 cx=-0.8 cy=15.7 stop=0 stable=0 ready=0 lock=1
+FS lat=3.0 fwd=-9.0 yerr=2.0 vxb=0.0 vyb=-15.8 ffx=0.0 ffy=0.0 cx=-0.6 cy=15.7 stop=0 stable=0 ready=0 lock=1
+FS lat=3.0 fwd=-9.0 yerr=0.6 vxb=0.0 vyb=-15.8 ffx=0.0 ffy=0.0 cx=-0.2 cy=15.7 stop=0 stable=0 ready=0 lock=1
+FS lat=3.0 fwd=-9.0 yerr=1.0 vxb=0.0 vyb=-15.8 ffx=-0.0 ffy=0.0 cx=0.3 cy=15.7 stop=0 stable=0 ready=0 lock=1
+FS lat=5.0 fwd=-4.0 yerr=1.6 vxb=0.0 vyb=-0.0 ffx=-0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=7.0 fwd=-3.0 yerr=1.8 vxb=0.0 vyb=-0.0 ffx=-0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=7.0 fwd=-3.0 yerr=1.3 vxb=0.0 vyb=-0.0 ffx=-0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=7.0 fwd=-3.0 yerr=0.7 vxb=0.0 vyb=-0.0 ffx=-0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=6.0 fwd=1.0 yerr=0.1 vxb=0.0 vyb=0.0 ffx=-0.0 ffy=0.0 cx=-0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=6.0 fwd=2.0 yerr=0.3 vxb=0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=6.0 fwd=2.0 yerr=0.4 vxb=0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=6.0 fwd=2.0 yerr=0.4 vxb=0.0 vyb=0.0 ffx=-0.1 ffy=-99.9 cx=-0.1 cy=-99.9 stop=0 stable=1 ready=2 lock=1
+FS lat=7.0 fwd=3.0 yerr=0.4 vxb=0.0 vyb=0.0 ffx=-0.1 ffy=-99.9 cx=-0.1 cy=-99.9 stop=0 stable=1 ready=2 lock=1
+FS lat=8.0 fwd=3.0 yerr=0.4 vxb=0.0 vyb=0.0 ffx=-0.1 ffy=-99.9 cx=-0.1 cy=-99.9 stop=0 stable=1 ready=2 lock=1
+FS lat=8.0 fwd=3.0 yerr=0.6 vxb=0.0 vyb=0.0 ffx=-0.2 ffy=-99.9 cx=-0.2 cy=-99.9 stop=0 stable=1 ready=2 lock=1
+FS lat=8.0 fwd=3.0 yerr=0.8 vxb=0.0 vyb=0.0 ffx=-0.2 ffy=-99.9 cx=-0.2 cy=-99.9 stop=0 stable=1 ready=2 lock=1
+FS lat=8.0 fwd=4.0 yerr=0.7 vxb=0.0 vyb=0.0 ffx=-0.2 ffy=-99.9 cx=-0.2 cy=-99.9 stop=0 stable=1 ready=2 lock=1
+FS lat=8.0 fwd=4.0 yerr=0.9 vxb=0.0 vyb=0.0 ffx=-0.2 ffy=-99.8 cx=-0.2 cy=-99.8 stop=0 stable=1 ready=2 lock=1
+FS lat=8.0 fwd=4.0 yerr=0.8 vxb=0.0 vyb=0.0 ffx=-0.2 ffy=-99.9 cx=-0.2 cy=-99.9 stop=0 stable=1 ready=2 lock=1
+FS lat=8.0 fwd=4.0 yerr=1.1 vxb=0.0 vyb=0.0 ffx=-0.3 ffy=-99.8 cx=-0.3 cy=-99.8 stop=0 stable=1 ready=2 lock=1
+FS lat=8.0 fwd=4.0 yerr=0.5 vxb=0.0 vyb=0.0 ffx=-0.1 ffy=-99.9 cx=-0.1 cy=-99.9 stop=0 stable=1 ready=2 lock=1
+FS lat=8.0 fwd=4.0 yerr=0.1 vxb=0.0 vyb=0.0 ffx=-0.0 ffy=-100.0 cx=-0.0 cy=-100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=8.0 fwd=4.0 yerr=0.1 vxb=0.0 vyb=0.0 ffx=-0.0 ffy=-100.0 cx=-0.0 cy=-100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=8.0 fwd=3.0 yerr=0.4 vxb=0.0 vyb=0.0 ffx=0.1 ffy=-100.0 cx=0.1 cy=-100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=8.0 fwd=3.0 yerr=0.5 vxb=0.0 vyb=0.0 ffx=0.1 ffy=-100.0 cx=0.1 cy=-100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=7.0 fwd=4.0 yerr=0.2 vxb=0.0 vyb=0.0 ffx=-0.1 ffy=-100.0 cx=-0.1 cy=-100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=7.0 fwd=4.0 yerr=0.1 vxb=0.0 vyb=0.0 ffx=-0.0 ffy=-100.0 cx=-0.0 cy=-100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=6.0 fwd=0.0 yerr=0.1 vxb=0.0 vyb=0.0 ffx=0.0 ffy=-100.0 cx=0.0 cy=-100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=6.0 fwd=0.0 yerr=0.4 vxb=0.0 vyb=0.0 ffx=0.1 ffy=-100.0 cx=0.1 cy=-100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=6.0 fwd=3.0 yerr=0.8 vxb=0.0 vyb=0.0 ffx=0.2 ffy=-100.0 cx=0.2 cy=-100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=6.0 fwd=3.0 yerr=0.4 vxb=0.0 vyb=0.0 ffx=0.1 ffy=-100.0 cx=0.1 cy=-100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=5.0 fwd=2.0 yerr=0.2 vxb=0.0 vyb=0.0 ffx=0.0 ffy=-100.0 cx=0.0 cy=-100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=5.0 fwd=2.0 yerr=0.2 vxb=0.0 vyb=0.0 ffx=0.0 ffy=-100.0 cx=0.0 cy=-100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=5.0 fwd=2.0 yerr=0.2 vxb=0.0 vyb=0.0 ffx=-0.1 ffy=-100.0 cx=-0.1 cy=-100.0 stop=0 stable=1 ready=2 lock=1
+RT relx=999.0 rely=999.0 dist_ok=0 diag_ok=0 centered=0 diag=1 yaw=83.6 target=90.0
+RT relx=18.0 rely=26.0 dist_ok=1 diag_ok=1 centered=0 diag=1 yaw=88.0 target=90.0
+RT relx=16.0 rely=30.0 dist_ok=0 diag_ok=0 centered=0 diag=1 yaw=86.0 target=90.0
+RT relx=16.0 rely=30.0 dist_ok=0 diag_ok=0 centered=0 diag=1 yaw=83.5 target=90.0
+RY yaw=81.9 target=90.0 err=8.1
+RY yaw=81.9 target=90.0 err=8.1
+RY yaw=82.7 target=90.0 err=7.3
+RYD yaw=83.1 target=90.0 err=6.9 x=69.1 y=242.7
+RT relx=13.0 rely=30.0 dist_ok=1 diag_ok=1 centered=0 diag=1 yaw=84.4 target=90.0
+RT relx=10.0 rely=31.0 dist_ok=1 diag_ok=1 centered=1 diag=1 yaw=84.6 target=90.0
+RT relx=10.0 rely=31.0 dist_ok=1 diag_ok=1 centered=1 diag=1 yaw=84.9 target=90.0
+RT relx=7.0 rely=31.0 dist_ok=1 diag_ok=1 centered=1 diag=1 yaw=84.9 target=90.0
+RT relx=7.0 rely=31.0 dist_ok=1 diag_ok=1 centered=1 diag=1 yaw=85.0 target=90.0
+RTR yaw=90.0 x=64.5 y=216.7
+FS lat=7.0 fwd=5.0 yerr=5.0 vxb=0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=7.0 fwd=5.0 yerr=5.0 vxb=0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=7.0 fwd=5.0 yerr=5.0 vxb=0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=7.0 fwd=5.0 yerr=4.9 vxb=0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=8.0 fwd=5.0 yerr=4.5 vxb=0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=8.0 fwd=5.0 yerr=3.2 vxb=0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=7.0 fwd=5.0 yerr=1.6 vxb=0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=7.0 fwd=5.0 yerr=0.6 vxb=0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=6.0 fwd=5.0 yerr=0.8 vxb=0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=4.0 fwd=5.0 yerr=1.0 vxb=0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=4.0 fwd=5.0 yerr=1.0 vxb=0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=4.0 fwd=5.0 yerr=1.0 vxb=0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=4.0 fwd=6.0 yerr=1.0 vxb=0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=4.0 fwd=6.0 yerr=1.0 vxb=0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=4.0 fwd=6.0 yerr=1.0 vxb=0.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=4.0 fwd=6.0 yerr=1.1 vxb=0.0 vyb=0.0 ffx=-0.4 ffy=-161.0 cx=-0.4 cy=-161.0 stop=0 stable=1 ready=2 lock=1
+FS lat=4.0 fwd=6.0 yerr=1.3 vxb=0.0 vyb=0.0 ffx=-0.5 ffy=-161.0 cx=-0.5 cy=-161.0 stop=0 stable=1 ready=2 lock=1
+FS lat=4.0 fwd=6.0 yerr=2.2 vxb=0.0 vyb=0.0 ffx=-0.8 ffy=-161.0 cx=-0.8 cy=-161.0 stop=0 stable=1 ready=2 lock=1
+FS lat=4.0 fwd=6.0 yerr=2.3 vxb=0.0 vyb=0.0 ffx=-0.8 ffy=-161.0 cx=-0.8 cy=-161.0 stop=0 stable=1 ready=2 lock=1
+FS lat=4.0 fwd=6.0 yerr=2.1 vxb=0.0 vyb=0.0 ffx=-0.8 ffy=-161.0 cx=-0.8 cy=-161.0 stop=0 stable=1 ready=2 lock=1
+FS lat=8.0 fwd=10.0 yerr=1.1 vxb=0.0 vyb=35.0 ffx=-0.4 ffy=-161.0 cx=34.6 cy=-161.7 stop=0 stable=0 ready=0 lock=1
+FS lat=7.0 fwd=7.0 yerr=1.3 vxb=0.0 vyb=0.0 ffx=0.5 ffy=-161.0 cx=0.5 cy=-161.0 stop=0 stable=1 ready=0 lock=1
+FS lat=7.0 fwd=7.0 yerr=2.5 vxb=0.0 vyb=0.0 ffx=0.9 ffy=-161.0 cx=0.9 cy=-161.0 stop=0 stable=1 ready=0 lock=1
+FS lat=12.0 fwd=8.0 yerr=2.9 vxb=70.0 vyb=0.0 ffx=1.1 ffy=-160.9 cx=4.6 cy=-230.9 stop=0 stable=0 ready=0 lock=1
+FS lat=12.0 fwd=8.0 yerr=4.8 vxb=70.0 vyb=0.0 ffx=1.8 ffy=-160.9 cx=7.7 cy=-230.6 stop=0 stable=0 ready=0 lock=1
+FS lat=14.0 fwd=7.0 yerr=4.3 vxb=70.0 vyb=0.0 ffx=1.6 ffy=-160.9 cx=6.7 cy=-230.7 stop=0 stable=0 ready=0 lock=1
+FS lat=14.0 fwd=7.0 yerr=2.6 vxb=70.0 vyb=0.0 ffx=0.9 ffy=-161.0 cx=4.1 cy=-230.9 stop=0 stable=0 ready=0 lock=1
+FS lat=17.0 fwd=10.0 yerr=1.7 vxb=70.0 vyb=35.0 ffx=0.6 ffy=-161.0 cx=37.6 cy=-229.9 stop=0 stable=0 ready=0 lock=1
+FS lat=17.0 fwd=10.0 yerr=4.3 vxb=70.0 vyb=35.0 ffx=1.6 ffy=-160.9 cx=41.7 cy=-228.1 stop=0 stable=0 ready=0 lock=1
+FS lat=17.0 fwd=8.0 yerr=7.3 vxb=70.0 vyb=0.0 ffx=2.6 ffy=-160.7 cx=11.5 cy=-230.1 stop=0 stable=0 ready=0 lock=1
+FS lat=17.0 fwd=8.0 yerr=9.7 vxb=70.0 vyb=0.0 ffx=3.1 ffy=-140.3 cx=14.9 cy=-209.3 stop=0 stable=0 ready=0 lock=1
+FS lat=21.0 fwd=10.0 yerr=11.7 vxb=70.0 vyb=35.0 ffx=2.6 ffy=-100.1 cx=51.0 cy=-161.6 stop=0 stable=0 ready=0 lock=1
+FS lat=21.0 fwd=10.0 yerr=13.3 vxb=70.0 vyb=35.0 ffx=1.8 ffy=-60.0 cx=52.0 cy=-120.0 stop=0 stable=0 ready=0 lock=1
+FS lat=21.0 fwd=10.0 yerr=14.0 vxb=70.0 vyb=35.0 ffx=0.0 ffy=0.0 cx=50.9 cy=-59.5 stop=0 stable=0 ready=0 lock=1
+FS lat=21.0 fwd=10.0 yerr=12.5 vxb=70.0 vyb=35.0 ffx=0.0 ffy=0.0 cx=49.3 cy=-60.8 stop=0 stable=0 ready=0 lock=1
+FS lat=23.0 fwd=5.0 yerr=11.0 vxb=70.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=13.4 cy=-68.7 stop=0 stable=0 ready=0 lock=1
+FS lat=24.0 fwd=8.0 yerr=7.5 vxb=70.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=9.2 cy=-69.4 stop=0 stable=0 ready=0 lock=1
+FS lat=24.0 fwd=8.0 yerr=2.9 vxb=70.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=3.5 cy=-69.9 stop=0 stable=0 ready=0 lock=1
+FS lat=24.0 fwd=8.0 yerr=0.3 vxb=70.0 vyb=0.0 ffx=0.0 ffy=0.0 cx=-0.4 cy=-70.0 stop=0 stable=0 ready=0 lock=1
+FS lat=8.0 fwd=9.0 yerr=2.1 vxb=0.0 vyb=15.8 ffx=0.0 ffy=0.0 cx=15.7 cy=-0.6 stop=0 stable=0 ready=0 lock=1
+FS lat=4.0 fwd=10.0 yerr=2.5 vxb=0.0 vyb=35.0 ffx=0.0 ffy=0.0 cx=35.0 cy=-1.6 stop=0 stable=0 ready=0 lock=1
+FS lat=4.0 fwd=10.0 yerr=2.3 vxb=0.0 vyb=35.0 ffx=0.0 ffy=0.0 cx=35.0 cy=-1.4 stop=0 stable=0 ready=0 lock=1
+FS lat=4.0 fwd=10.0 yerr=1.1 vxb=0.0 vyb=35.0 ffx=0.0 ffy=0.0 cx=35.0 cy=-0.6 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=10.0 yerr=0.0 vxb=-49.5 vyb=35.0 ffx=0.0 ffy=0.0 cx=34.8 cy=49.6 stop=0 stable=0 ready=0 lock=1
+FS lat=-14.0 fwd=11.0 yerr=1.1 vxb=-70.0 vyb=57.8 ffx=0.0 ffy=0.0 cx=56.4 cy=71.1 stop=0 stable=0 ready=0 lock=1
+FS lat=-14.0 fwd=11.0 yerr=0.7 vxb=-70.0 vyb=57.8 ffx=0.0 ffy=0.0 cx=56.9 cy=70.7 stop=0 stable=0 ready=0 lock=1
+FS lat=-14.0 fwd=11.0 yerr=0.5 vxb=-70.0 vyb=57.8 ffx=0.0 ffy=0.0 cx=57.2 cy=70.5 stop=0 stable=0 ready=0 lock=1
+FS lat=-14.0 fwd=11.0 yerr=0.3 vxb=-70.0 vyb=57.8 ffx=0.0 ffy=0.0 cx=58.1 cy=69.7 stop=0 stable=0 ready=0 lock=1
+FS lat=-16.0 fwd=14.0 yerr=0.6 vxb=-70.0 vyb=80.0 ffx=0.0 ffy=0.0 cx=80.7 cy=69.1 stop=0 stable=0 ready=0 lock=1
+FS lat=-16.0 fwd=14.0 yerr=0.4 vxb=-70.0 vyb=80.0 ffx=0.0 ffy=0.0 cx=80.5 cy=69.4 stop=0 stable=0 ready=0 lock=1
+FS lat=-17.0 fwd=10.0 yerr=0.1 vxb=-70.0 vyb=35.0 ffx=0.0 ffy=0.0 cx=34.9 cy=70.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-17.0 fwd=10.0 yerr=0.9 vxb=-70.0 vyb=35.0 ffx=0.0 ffy=0.0 cx=33.9 cy=70.5 stop=0 stable=0 ready=0 lock=1
+FS lat=-15.0 fwd=10.0 yerr=1.4 vxb=-70.0 vyb=35.0 ffx=0.0 ffy=0.0 cx=33.2 cy=70.9 stop=0 stable=0 ready=0 lock=1
+FS lat=-15.0 fwd=10.0 yerr=1.8 vxb=-70.0 vyb=35.0 ffx=0.0 ffy=0.0 cx=32.8 cy=71.1 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=4.0 yerr=1.6 vxb=-49.5 vyb=0.0 ffx=0.0 ffy=0.0 cx=-1.4 cy=49.5 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=4.0 yerr=0.3 vxb=-49.5 vyb=0.0 ffx=0.0 ffy=0.0 cx=-0.3 cy=49.5 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=4.0 yerr=0.7 vxb=-13.5 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.2 cy=13.5 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=4.0 yerr=1.3 vxb=-13.5 vyb=0.0 ffx=0.0 ffy=0.0 cx=0.3 cy=13.5 stop=0 stable=0 ready=0 lock=1
+FS lat=-6.0 fwd=-2.0 yerr=1.4 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-5.0 fwd=-3.0 yerr=1.4 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-5.0 fwd=-3.0 yerr=1.1 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-5.0 fwd=-3.0 yerr=0.3 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-3.0 fwd=-8.0 yerr=0.2 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-1.0 fwd=-8.0 yerr=0.3 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-1.0 fwd=-8.0 yerr=0.5 vxb=-0.0 vyb=-0.0 ffx=99.9 ffy=-0.1 cx=99.9 cy=-0.1 stop=0 stable=1 ready=2 lock=1
+FS lat=-1.0 fwd=-8.0 yerr=0.6 vxb=-0.0 vyb=-0.0 ffx=99.9 ffy=-0.2 cx=99.9 cy=-0.2 stop=0 stable=1 ready=2 lock=1
+FS lat=0.0 fwd=-8.0 yerr=0.3 vxb=0.0 vyb=-0.0 ffx=99.9 ffy=-0.1 cx=99.9 cy=-0.1 stop=0 stable=1 ready=2 lock=1
+FS lat=1.0 fwd=-8.0 yerr=0.1 vxb=0.0 vyb=-0.0 ffx=100.0 ffy=-0.0 cx=100.0 cy=-0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=1.0 fwd=-8.0 yerr=0.1 vxb=0.0 vyb=-0.0 ffx=100.0 ffy=-0.0 cx=100.0 cy=-0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=0.0 fwd=-8.0 yerr=0.6 vxb=0.0 vyb=-0.0 ffx=99.9 ffy=-0.2 cx=99.9 cy=-0.2 stop=0 stable=1 ready=2 lock=1
+FS lat=0.0 fwd=-8.0 yerr=1.0 vxb=0.0 vyb=-0.0 ffx=99.8 ffy=-0.3 cx=99.8 cy=-0.3 stop=0 stable=1 ready=2 lock=1
+FS lat=-1.0 fwd=-8.0 yerr=1.1 vxb=-0.0 vyb=-0.0 ffx=99.8 ffy=-0.3 cx=99.8 cy=-0.3 stop=0 stable=1 ready=2 lock=1
+FS lat=-1.0 fwd=-8.0 yerr=0.4 vxb=-0.0 vyb=-0.0 ffx=99.9 ffy=-0.1 cx=99.9 cy=-0.1 stop=0 stable=1 ready=2 lock=1
+FS lat=-2.0 fwd=-8.0 yerr=0.1 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.0 cx=100.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-2.0 fwd=-8.0 yerr=0.1 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=-0.0 cx=100.0 cy=-0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-2.0 fwd=-9.0 yerr=0.7 vxb=-0.0 vyb=-15.8 ffx=100.0 ffy=0.2 cx=84.3 cy=0.4 stop=0 stable=0 ready=0 lock=1
+FS lat=-2.0 fwd=-9.0 yerr=1.1 vxb=-0.0 vyb=-15.8 ffx=100.0 ffy=0.3 cx=84.3 cy=0.6 stop=0 stable=0 ready=0 lock=1
+FS lat=-3.0 fwd=-9.0 yerr=1.5 vxb=-0.0 vyb=-15.8 ffx=100.0 ffy=0.4 cx=84.3 cy=0.8 stop=0 stable=0 ready=0 lock=1
+FS lat=-3.0 fwd=-9.0 yerr=1.1 vxb=-0.0 vyb=-15.8 ffx=100.0 ffy=0.3 cx=84.3 cy=0.6 stop=0 stable=0 ready=0 lock=1
+FS lat=-3.0 fwd=-9.0 yerr=0.8 vxb=-0.0 vyb=-15.8 ffx=100.0 ffy=0.2 cx=84.3 cy=0.4 stop=0 stable=0 ready=0 lock=1
+FS lat=-3.0 fwd=-9.0 yerr=0.7 vxb=-0.0 vyb=-15.8 ffx=100.0 ffy=0.2 cx=84.3 cy=0.4 stop=0 stable=0 ready=0 lock=1
+FS lat=-4.0 fwd=-10.0 yerr=0.2 vxb=-0.0 vyb=-35.0 ffx=100.0 ffy=0.1 cx=65.0 cy=0.2 stop=0 stable=0 ready=0 lock=1
+FS lat=-5.0 fwd=-10.0 yerr=0.6 vxb=-0.0 vyb=-35.0 ffx=99.9 ffy=-0.1 cx=64.9 cy=-0.5 stop=0 stable=0 ready=0 lock=1
+FS lat=-5.0 fwd=-10.0 yerr=0.7 vxb=-0.0 vyb=-35.0 ffx=99.9 ffy=-0.2 cx=64.9 cy=-0.7 stop=0 stable=0 ready=0 lock=1
+FS lat=-5.0 fwd=-10.0 yerr=0.9 vxb=-0.0 vyb=-35.0 ffx=99.9 ffy=-0.2 cx=64.9 cy=-0.8 stop=0 stable=0 ready=0 lock=1
+FS lat=-3.0 fwd=-10.0 yerr=0.6 vxb=-0.0 vyb=-35.0 ffx=99.9 ffy=-0.2 cx=64.9 cy=-0.5 stop=0 stable=0 ready=0 lock=1
+FS lat=-2.0 fwd=-10.0 yerr=0.2 vxb=-0.0 vyb=-35.0 ffx=100.0 ffy=-0.1 cx=65.0 cy=-0.2 stop=0 stable=0 ready=0 lock=1
+FS lat=-2.0 fwd=-10.0 yerr=0.0 vxb=-0.0 vyb=-35.0 ffx=100.0 ffy=0.0 cx=65.0 cy=0.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-2.0 fwd=-10.0 yerr=0.1 vxb=-0.0 vyb=-35.0 ffx=100.0 ffy=0.0 cx=65.0 cy=0.1 stop=0 stable=0 ready=0 lock=1
+FS lat=-3.0 fwd=-9.0 yerr=0.1 vxb=-0.0 vyb=-15.8 ffx=100.0 ffy=-0.0 cx=84.2 cy=-0.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-3.0 fwd=-9.0 yerr=0.4 vxb=-0.0 vyb=-15.8 ffx=100.0 ffy=0.1 cx=84.3 cy=0.2 stop=0 stable=0 ready=0 lock=1
+FS lat=-3.0 fwd=-9.0 yerr=0.2 vxb=-0.0 vyb=-15.8 ffx=100.0 ffy=0.1 cx=84.3 cy=0.1 stop=0 stable=0 ready=0 lock=1
+FS lat=-1.0 fwd=-6.0 yerr=0.3 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.1 cx=100.0 cy=0.1 stop=0 stable=1 ready=0 lock=1
+FS lat=-1.0 fwd=-6.0 yerr=0.0 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=-0.0 cx=100.0 cy=-0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-2.0 fwd=-5.0 yerr=0.0 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.0 cx=100.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-2.0 fwd=-5.0 yerr=0.5 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.1 cx=100.0 cy=0.1 stop=0 stable=1 ready=0 lock=1
+FS lat=-1.0 fwd=-4.0 yerr=1.0 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.3 cx=100.0 cy=0.3 stop=0 stable=1 ready=2 lock=1
+FS lat=-1.0 fwd=-4.0 yerr=1.2 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.3 cx=100.0 cy=0.3 stop=0 stable=1 ready=2 lock=1
+FS lat=-1.0 fwd=-4.0 yerr=1.2 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.3 cx=100.0 cy=0.3 stop=0 stable=1 ready=2 lock=1
+FS lat=-1.0 fwd=-4.0 yerr=1.2 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.3 cx=100.0 cy=0.3 stop=0 stable=1 ready=2 lock=1
+FS lat=-2.0 fwd=-4.0 yerr=0.5 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.1 cx=100.0 cy=0.1 stop=0 stable=1 ready=2 lock=1
+FS lat=-2.0 fwd=-4.0 yerr=0.0 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.0 cx=100.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-2.0 fwd=-3.0 yerr=0.0 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=-0.0 cx=100.0 cy=-0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-2.0 fwd=-3.0 yerr=0.1 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.0 cx=100.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-2.0 fwd=-4.0 yerr=0.1 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.0 cx=100.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-2.0 fwd=-4.0 yerr=0.3 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.1 cx=100.0 cy=0.1 stop=0 stable=1 ready=2 lock=1
+FS lat=-1.0 fwd=-4.0 yerr=0.2 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.0 cx=100.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-1.0 fwd=-4.0 yerr=0.4 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.1 cx=100.0 cy=0.1 stop=0 stable=1 ready=2 lock=1
+FS lat=-1.0 fwd=-5.0 yerr=0.6 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.2 cx=100.0 cy=0.2 stop=0 stable=1 ready=2 lock=1
+FS lat=-1.0 fwd=-7.0 yerr=1.2 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.3 cx=100.0 cy=0.3 stop=0 stable=1 ready=2 lock=1
+FS lat=-1.0 fwd=-7.0 yerr=1.1 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.3 cx=100.0 cy=0.3 stop=0 stable=1 ready=2 lock=1
+FS lat=-1.0 fwd=-7.0 yerr=1.2 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.3 cx=100.0 cy=0.3 stop=0 stable=1 ready=2 lock=1
+FS lat=-2.0 fwd=-6.0 yerr=0.7 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.2 cx=100.0 cy=0.2 stop=0 stable=1 ready=2 lock=1
+FS lat=-2.0 fwd=-6.0 yerr=0.7 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.2 cx=100.0 cy=0.2 stop=0 stable=1 ready=2 lock=1
+FS lat=-2.0 fwd=-6.0 yerr=0.3 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.1 cx=100.0 cy=0.1 stop=0 stable=1 ready=2 lock=1
+FS lat=-2.0 fwd=-6.0 yerr=0.4 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.1 cx=100.0 cy=0.1 stop=0 stable=1 ready=2 lock=1
+FS lat=-2.0 fwd=-6.0 yerr=0.6 vxb=-0.0 vyb=-0.0 ffx=100.0 ffy=0.2 cx=100.0 cy=0.2 stop=0 stable=1 ready=2 lock=1
+FS lat=-2.0 fwd=-8.0 yerr=0.8 vxb=-0.0 vyb=-0.0 ffx=85.2 ffy=-16.8 cx=85.2 cy=-16.8 stop=0 stable=1 ready=2 lock=1
+FS lat=-2.0 fwd=-8.0 yerr=0.7 vxb=-0.0 vyb=-0.0 ffx=60.3 ffy=-45.4 cx=60.3 cy=-45.4 stop=0 stable=1 ready=2 lock=1
+FS lat=-3.0 fwd=-9.0 yerr=1.4 vxb=-0.0 vyb=-15.8 ffx=-0.4 ffy=-115.0 cx=-16.1 cy=-114.6 stop=0 stable=0 ready=0 lock=1
+FS lat=-3.0 fwd=-9.0 yerr=2.3 vxb=-0.0 vyb=-15.8 ffx=-0.6 ffy=-115.0 cx=-16.3 cy=-114.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-3.0 fwd=-9.0 yerr=2.7 vxb=-0.0 vyb=-15.8 ffx=-0.7 ffy=-115.0 cx=-16.4 cy=-114.2 stop=0 stable=0 ready=0 lock=1
+FS lat=-3.0 fwd=-9.0 yerr=2.8 vxb=-0.0 vyb=-15.8 ffx=-0.7 ffy=-115.0 cx=-16.5 cy=-114.2 stop=0 stable=0 ready=0 lock=1
+FS lat=-1.0 fwd=-9.0 yerr=3.8 vxb=-0.0 vyb=-15.8 ffx=-1.0 ffy=-114.9 cx=-16.7 cy=-113.9 stop=0 stable=0 ready=0 lock=1
+FS lat=-1.0 fwd=-9.0 yerr=4.4 vxb=-0.0 vyb=-15.8 ffx=-1.1 ffy=-114.9 cx=-16.9 cy=-113.7 stop=0 stable=0 ready=0 lock=1
+FS lat=-1.0 fwd=-10.0 yerr=4.5 vxb=-0.0 vyb=-35.0 ffx=-1.2 ffy=-114.9 cx=-36.1 cy=-112.1 stop=0 stable=0 ready=0 lock=1
+FS lat=-1.0 fwd=-10.0 yerr=5.7 vxb=-0.0 vyb=-35.0 ffx=-1.5 ffy=-114.9 cx=-36.3 cy=-111.4 stop=0 stable=0 ready=0 lock=1
+FS lat=1.0 fwd=-10.0 yerr=6.3 vxb=0.0 vyb=-35.0 ffx=-1.6 ffy=-114.8 cx=-36.4 cy=-111.0 stop=0 stable=0 ready=0 lock=1
+FS lat=1.0 fwd=-10.0 yerr=6.0 vxb=0.0 vyb=-35.0 ffx=-1.6 ffy=-114.8 cx=-36.4 cy=-111.2 stop=0 stable=0 ready=0 lock=1
+FS lat=1.0 fwd=-10.0 yerr=6.0 vxb=0.0 vyb=-35.0 ffx=-1.6 ffy=-114.8 cx=-36.4 cy=-111.2 stop=0 stable=0 ready=0 lock=1
+FS lat=1.0 fwd=-10.0 yerr=4.0 vxb=0.0 vyb=-35.0 ffx=-1.0 ffy=-114.9 cx=-36.0 cy=-112.5 stop=0 stable=0 ready=0 lock=1
+FS lat=3.0 fwd=-9.0 yerr=2.5 vxb=0.0 vyb=-15.8 ffx=-0.7 ffy=-115.0 cx=-16.4 cy=-114.3 stop=0 stable=0 ready=0 lock=1
+FS lat=4.0 fwd=-9.0 yerr=1.5 vxb=0.0 vyb=-15.8 ffx=-0.4 ffy=-115.0 cx=-16.1 cy=-114.6 stop=0 stable=0 ready=0 lock=1
+FS lat=4.0 fwd=-9.0 yerr=0.2 vxb=0.0 vyb=-15.8 ffx=-0.1 ffy=-115.0 cx=-15.8 cy=-114.9 stop=0 stable=0 ready=0 lock=1
+FS lat=4.0 fwd=-9.0 yerr=0.1 vxb=0.0 vyb=-15.8 ffx=-0.0 ffy=-115.0 cx=-15.8 cy=-115.0 stop=0 stable=0 ready=0 lock=1
+FO phi=292.8 tgt=0.0 err=67.2 rem=67.2 dir=1 fine=0 spd=80.0 rd=21.5 rvx=0.0 rvy=0.0 ffx=0.0 ffy=-72.0 cx=31.0 cy=1.8 relx=8.0 rely=20.0 bf=21.8 lock=0 visage=9
+FO phi=292.7 tgt=0.0 err=67.3 rem=67.3 dir=1 fine=0 spd=80.0 rd=22.5 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=30.8 cy=73.8 relx=8.0 rely=21.0 bf=20.9 lock=0 visage=23
+FO phi=296.2 tgt=0.0 err=63.8 rem=63.8 dir=1 fine=0 spd=80.0 rd=22.5 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=35.3 cy=71.8 relx=8.0 rely=21.0 bf=20.9 lock=0 visage=77
+FO phi=301.5 tgt=0.0 err=58.5 rem=58.5 dir=1 fine=0 spd=80.0 rd=24.4 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=40.9 cy=68.7 relx=8.0 rely=23.0 bf=19.9 lock=0 visage=3
+FO phi=305.2 tgt=0.0 err=54.8 rem=54.8 dir=1 fine=0 spd=80.0 rd=24.4 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=46.1 cy=65.4 relx=8.0 rely=23.0 bf=19.2 lock=0 visage=54
+FO phi=303.4 tgt=0.0 err=56.6 rem=56.6 dir=1 fine=0 spd=80.0 rd=24.7 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=43.9 cy=66.9 relx=6.0 rely=24.0 bf=14.1 lock=0 visage=35
+FO phi=306.0 tgt=0.0 err=54.0 rem=54.0 dir=1 fine=0 spd=80.0 rd=24.7 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=47.0 cy=64.7 relx=6.0 rely=24.0 bf=14.0 lock=0 visage=86
+FO phi=282.7 tgt=0.0 err=77.3 rem=77.3 dir=1 fine=0 spd=80.0 rd=24.7 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=4.2 cy=79.9 relx=-9.0 rely=23.0 bf=-11.6 lock=0 visage=10
+FO phi=276.3 tgt=0.0 err=83.7 rem=83.7 dir=1 fine=0 spd=80.0 rd=24.7 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=8.4 cy=79.6 relx=-9.0 rely=23.0 bf=-21.1 lock=0 visage=62
+FO phi=275.4 tgt=0.0 err=84.6 rem=84.6 dir=1 fine=0 spd=80.0 rd=25.1 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=7.5 cy=79.6 relx=-10.0 rely=23.0 bf=-23.5 lock=0 visage=42
+FO phi=273.5 tgt=0.0 err=86.5 rem=86.5 dir=1 fine=0 spd=80.0 rd=25.1 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=4.8 cy=79.9 relx=-10.0 rely=23.0 bf=-23.5 lock=0 visage=94
+FO phi=253.8 tgt=0.0 err=106.2 rem=106.2 dir=1 fine=0 spd=80.0 rd=22.8 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-24.5 cy=76.2 relx=-14.0 rely=18.0 bf=-36.2 lock=0 visage=18
+FO phi=245.7 tgt=0.0 err=114.3 rem=114.3 dir=1 fine=0 spd=80.0 rd=22.2 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-31.2 cy=73.6 relx=-13.0 rely=18.0 bf=-37.1 lock=0 visage=0
+FO phi=239.5 tgt=0.0 err=120.5 rem=120.5 dir=1 fine=0 spd=80.0 rd=22.2 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-40.6 cy=68.9 relx=-13.0 rely=18.0 bf=-35.8 lock=0 visage=51
+FO phi=232.6 tgt=0.0 err=127.4 rem=127.4 dir=1 fine=0 spd=80.0 rd=22.2 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-48.6 cy=63.6 relx=-13.0 rely=18.0 bf=-35.8 lock=0 visage=104
+FO phi=252.1 tgt=0.0 err=107.9 rem=107.9 dir=1 fine=0 spd=80.0 rd=22.2 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-23.4 cy=76.5 relx=-3.0 rely=22.0 bf=-8.7 lock=0 visage=33
+FO phi=250.3 tgt=0.0 err=109.7 rem=109.7 dir=1 fine=0 spd=80.0 rd=22.0 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-24.1 cy=76.3 relx=-1.0 rely=22.0 bf=-4.8 lock=0 visage=5
+FO phi=249.7 tgt=0.0 err=110.3 rem=110.3 dir=1 fine=0 spd=80.0 rd=22.0 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-27.7 cy=75.0 relx=-1.0 rely=22.0 bf=-2.6 lock=0 visage=57
+FO phi=251.2 tgt=0.0 err=108.8 rem=108.8 dir=1 fine=0 spd=80.0 rd=22.0 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=-25.8 cy=75.7 relx=-1.0 rely=22.0 bf=-2.6 lock=0 visage=111
+FO phi=283.6 tgt=0.0 err=76.4 rem=76.4 dir=1 fine=0 spd=80.0 rd=22.8 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=19.4 cy=77.6 relx=11.0 rely=20.0 bf=28.4 lock=0 visage=45
+FO phi=288.2 tgt=0.0 err=71.8 rem=71.8 dir=1 fine=0 spd=80.0 rd=25.6 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=25.4 cy=75.9 relx=13.0 rely=22.0 bf=30.3 lock=0 visage=15
+FO phi=293.1 tgt=0.0 err=66.9 rem=66.9 dir=1 fine=0 spd=80.0 rd=25.6 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=31.3 cy=73.6 relx=13.0 rely=22.0 bf=30.6 lock=0 visage=68
+FO phi=301.8 tgt=0.0 err=58.2 rem=58.2 dir=1 fine=0 spd=80.0 rd=28.3 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=43.2 cy=67.3 relx=15.0 rely=24.0 bf=31.1 lock=0 visage=0
+FO phi=310.6 tgt=0.0 err=49.4 rem=49.4 dir=1 fine=0 spd=80.0 rd=28.3 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=52.1 cy=60.7 relx=15.0 rely=24.0 bf=32.0 lock=0 visage=53
+FO phi=311.7 tgt=0.0 err=48.3 rem=48.3 dir=1 fine=0 spd=80.0 rd=28.2 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=52.8 cy=60.1 relx=13.0 rely=25.0 bf=27.8 lock=0 visage=23
+FO phi=318.8 tgt=0.0 err=41.2 rem=41.2 dir=1 fine=0 spd=80.0 rd=28.2 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=60.2 cy=52.7 relx=13.0 rely=25.0 bf=27.5 lock=0 visage=76
+FO phi=314.6 tgt=0.0 err=45.4 rem=45.4 dir=1 fine=0 spd=80.0 rd=31.8 rvx=31.7 rvy=-25.1 ffx=0.0 ffy=0.0 cx=81.4 cy=37.5 relx=7.0 rely=31.0 bf=19.0 lock=0 visage=5
+FO phi=312.5 tgt=0.0 err=47.5 rem=47.5 dir=1 fine=0 spd=80.0 rd=31.8 rvx=29.9 rvy=-27.2 ffx=0.0 ffy=0.0 cx=83.8 cy=31.9 relx=7.0 rely=31.0 bf=12.9 lock=0 visage=60
+FO phi=310.0 tgt=0.0 err=50.0 rem=50.0 dir=1 fine=0 spd=80.0 rd=31.4 rvx=29.0 rvy=-24.3 ffx=0.0 ffy=0.0 cx=80.4 cy=37.0 relx=5.0 rely=31.0 bf=9.2 lock=0 visage=41
+FO phi=312.5 tgt=0.0 err=47.5 rem=47.5 dir=1 fine=0 spd=80.0 rd=31.4 rvx=27.9 rvy=-25.5 ffx=0.0 ffy=0.0 cx=81.9 cy=33.5 relx=5.0 rely=31.0 bf=9.2 lock=0 visage=91
+FO phi=309.3 tgt=0.0 err=50.7 rem=50.7 dir=1 fine=0 spd=80.0 rd=30.1 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=50.0 cy=62.4 relx=2.0 rely=30.0 bf=4.4 lock=0 visage=19
+FO phi=310.1 tgt=0.0 err=49.9 rem=49.9 dir=1 fine=0 spd=80.0 rd=30.1 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=51.5 cy=61.2 relx=2.0 rely=30.0 bf=3.8 lock=0 visage=70
+FO phi=309.5 tgt=0.0 err=50.5 rem=50.5 dir=1 fine=0 spd=80.0 rd=29.1 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=50.9 cy=61.8 relx=2.0 rely=29.0 bf=3.9 lock=0 visage=35
+FO phi=309.7 tgt=0.0 err=50.3 rem=50.3 dir=1 fine=0 spd=80.0 rd=29.1 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=51.1 cy=61.6 relx=2.0 rely=29.0 bf=3.9 lock=0 visage=87
+FO phi=319.5 tgt=0.0 err=40.5 rem=40.5 dir=1 fine=0 spd=80.0 rd=27.7 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=61.4 cy=51.3 relx=6.0 rely=27.0 bf=11.9 lock=0 visage=26
+FO phi=322.2 tgt=0.0 err=37.8 rem=37.8 dir=1 fine=0 spd=80.0 rd=27.7 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=63.2 cy=49.0 relx=6.0 rely=27.0 bf=12.5 lock=0 visage=76
+FO phi=327.7 tgt=0.0 err=32.3 rem=32.3 dir=1 fine=0 spd=79.5 rd=24.7 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=67.2 cy=42.4 relx=6.0 rely=24.0 bf=14.0 lock=0 visage=46
+FO phi=330.0 tgt=0.0 err=30.0 rem=30.0 dir=1 fine=0 spd=79.0 rd=24.7 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=68.4 cy=39.6 relx=6.0 rely=24.0 bf=14.0 lock=0 visage=98
+FO phi=333.4 tgt=0.0 err=26.6 rem=26.6 dir=1 fine=0 spd=78.3 rd=22.8 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=70.1 cy=34.9 relx=6.0 rely=22.0 bf=15.1 lock=0 visage=20
+FO phi=336.5 tgt=0.0 err=23.5 rem=23.5 dir=1 fine=0 spd=77.7 rd=22.8 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=71.2 cy=31.0 relx=6.0 rely=22.0 bf=15.3 lock=0 visage=72
+FO phi=340.9 tgt=0.0 err=19.1 rem=19.1 dir=1 fine=0 spd=76.8 rd=22.8 rvx=0.0 rvy=0.0 ffx=0.0 ffy=0.0 cx=72.6 cy=25.2 relx=6.0 rely=22.0 bf=15.3 lock=0 visage=125
+FOH x=227.8 y=152.2 lx=234.5 ly=130.5 relx=6.0 rely=22.0 phi=342.2 visage=146
+FY yaw=148.9 target=180.0 err=31.1
+FY yaw=152.8 target=180.0 err=27.2
+FY yaw=157.5 target=180.0 err=22.5
+FY yaw=162.3 target=180.0 err=17.7
+FY yaw=167.3 target=180.0 err=12.7
+FY yaw=172.4 target=180.0 err=7.6
+FYD yaw=174.8 target=180.0 err=5.2 x=229.3 y=153.0
+FS lat=-1.0 fwd=-4.0 yerr=3.3 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-1.0 fwd=-4.0 yerr=2.6 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-1.0 fwd=-4.0 yerr=3.2 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-9.0 fwd=-4.0 yerr=3.8 vxb=-13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=13.5 cy=0.9 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-4.0 yerr=4.4 vxb=-13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=13.5 cy=1.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-4.0 yerr=4.4 vxb=-13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=13.5 cy=1.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-4.0 yerr=3.8 vxb=-13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=13.5 cy=0.9 stop=0 stable=0 ready=0 lock=1
+FS lat=-8.0 fwd=-4.0 yerr=2.8 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-8.0 fwd=-4.0 yerr=2.0 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-8.0 fwd=-4.0 yerr=0.8 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-9.0 fwd=-4.0 yerr=0.2 vxb=-13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=13.5 cy=0.1 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-4.0 yerr=0.2 vxb=-13.5 vyb=-0.0 ffx=-0.0 ffy=0.0 cx=13.5 cy=-0.1 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-4.0 yerr=0.8 vxb=-13.5 vyb=-0.0 ffx=-0.0 ffy=0.0 cx=13.5 cy=-0.2 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-4.0 yerr=1.0 vxb=-13.5 vyb=-0.0 ffx=-0.0 ffy=0.0 cx=13.5 cy=-0.2 stop=0 stable=0 ready=0 lock=1
+FS lat=-10.0 fwd=-4.0 yerr=0.6 vxb=-30.0 vyb=-0.0 ffx=-0.0 ffy=0.0 cx=30.0 cy=-0.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-10.0 fwd=-4.0 yerr=0.3 vxb=-30.0 vyb=-0.0 ffx=-0.0 ffy=0.0 cx=30.0 cy=-0.2 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-7.0 yerr=0.0 vxb=-13.5 vyb=-0.0 ffx=-0.0 ffy=0.0 cx=13.5 cy=-0.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-7.0 yerr=0.4 vxb=-13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=13.5 cy=0.1 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-5.0 yerr=0.6 vxb=-13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=13.5 cy=0.1 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-5.0 yerr=0.8 vxb=-13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=13.5 cy=0.2 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-5.0 yerr=0.6 vxb=-13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=13.5 cy=0.1 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-5.0 yerr=0.2 vxb=-13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=13.5 cy=0.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-8.0 fwd=-5.0 yerr=0.0 vxb=-0.0 vyb=-0.0 ffx=-0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-8.0 fwd=-5.0 yerr=0.0 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-8.0 fwd=-5.0 yerr=0.0 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-8.0 fwd=-5.0 yerr=0.2 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-8.0 fwd=-8.0 yerr=0.7 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-8.0 fwd=-8.0 yerr=0.2 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-7.0 fwd=-8.0 yerr=0.5 vxb=-0.0 vyb=-0.0 ffx=-114.9 ffy=10.1 cx=-114.9 cy=10.1 stop=0 stable=1 ready=2 lock=1
+FS lat=-7.0 fwd=-8.0 yerr=0.6 vxb=-0.0 vyb=-0.0 ffx=-114.9 ffy=10.1 cx=-114.9 cy=10.1 stop=0 stable=1 ready=2 lock=1
+FS lat=-7.0 fwd=-8.0 yerr=0.8 vxb=-0.0 vyb=-0.0 ffx=-114.9 ffy=10.2 cx=-114.9 cy=10.2 stop=0 stable=1 ready=2 lock=1
+FS lat=-7.0 fwd=-8.0 yerr=1.1 vxb=-0.0 vyb=-0.0 ffx=-114.8 ffy=10.3 cx=-114.8 cy=10.3 stop=0 stable=1 ready=2 lock=1
+FS lat=-7.0 fwd=-8.0 yerr=1.6 vxb=-0.0 vyb=-0.0 ffx=-114.7 ffy=10.4 cx=-114.7 cy=10.4 stop=0 stable=1 ready=2 lock=1
+FS lat=-7.0 fwd=-8.0 yerr=2.4 vxb=-0.0 vyb=-0.0 ffx=-114.6 ffy=10.6 cx=-114.6 cy=10.6 stop=0 stable=1 ready=2 lock=1
+FS lat=-7.0 fwd=-8.0 yerr=2.5 vxb=-0.0 vyb=-0.0 ffx=-114.5 ffy=10.6 cx=-114.5 cy=10.6 stop=0 stable=1 ready=2 lock=1
+FS lat=-6.0 fwd=-8.0 yerr=2.5 vxb=-0.0 vyb=-0.0 ffx=-114.5 ffy=10.6 cx=-114.5 cy=10.6 stop=0 stable=1 ready=2 lock=1
+FS lat=-6.0 fwd=-8.0 yerr=1.9 vxb=-0.0 vyb=-0.0 ffx=-114.7 ffy=10.5 cx=-114.7 cy=10.5 stop=0 stable=1 ready=2 lock=1
+FS lat=-6.0 fwd=-8.0 yerr=0.6 vxb=-0.0 vyb=-0.0 ffx=-114.9 ffy=10.2 cx=-114.9 cy=10.2 stop=0 stable=1 ready=2 lock=1
+FS lat=-7.0 fwd=-6.0 yerr=0.6 vxb=-0.0 vyb=-0.0 ffx=-115.1 ffy=9.8 cx=-115.1 cy=9.8 stop=0 stable=1 ready=2 lock=1
+FS lat=-7.0 fwd=-7.0 yerr=0.8 vxb=-0.0 vyb=-0.0 ffx=-115.1 ffy=9.8 cx=-115.1 cy=9.8 stop=0 stable=1 ready=2 lock=1
+FS lat=-7.0 fwd=-7.0 yerr=0.8 vxb=-0.0 vyb=-0.0 ffx=-115.1 ffy=9.8 cx=-115.1 cy=9.8 stop=0 stable=1 ready=2 lock=1
+FS lat=-6.0 fwd=-3.0 yerr=0.8 vxb=-0.0 vyb=-0.0 ffx=-115.1 ffy=9.8 cx=-115.1 cy=9.8 stop=0 stable=1 ready=2 lock=1
+FS lat=-6.0 fwd=-3.0 yerr=0.8 vxb=-0.0 vyb=-0.0 ffx=-115.1 ffy=9.8 cx=-115.1 cy=9.8 stop=0 stable=1 ready=2 lock=1
+FS lat=-6.0 fwd=-4.0 yerr=1.1 vxb=-0.0 vyb=-0.0 ffx=-115.2 ffy=9.7 cx=-115.2 cy=9.7 stop=0 stable=1 ready=2 lock=1
+FS lat=-6.0 fwd=-4.0 yerr=1.5 vxb=-0.0 vyb=-0.0 ffx=-115.3 ffy=9.6 cx=-115.3 cy=9.6 stop=0 stable=1 ready=2 lock=1
+RO phi=32.7 tgt=180.0 err=147.3 rem=147.3 dir=1 fine=0 spd=80.0 rd=36.2 rvx=-27.7 rvy=-43.1 ffx=-119.9 ffy=-4.7 cx=-80.3 cy=-91.0 relx=23.0 rely=28.0 visage=0
+RO phi=37.2 tgt=180.0 err=142.8 rem=142.8 dir=1 fine=0 spd=80.0 rd=36.2 rvx=-31.1 rvy=-40.7 ffx=-119.9 ffy=4.0 cx=-87.2 cy=-85.0 relx=23.0 rely=28.0 visage=52
+RO phi=13.0 tgt=180.0 err=167.0 rem=167.0 dir=1 fine=0 spd=80.0 rd=38.1 rvx=-13.6 rvy=-58.9 ffx=-119.8 ffy=6.4 cx=-55.4 cy=-70.4 relx=9.0 rely=37.0 visage=11
+RO phi=15.7 tgt=180.0 err=164.3 rem=164.3 dir=1 fine=0 spd=80.0 rd=38.1 rvx=-16.3 rvy=-58.2 ffx=-119.9 ffy=4.4 cx=-59.2 cy=-75.3 relx=9.0 rely=37.0 visage=62
+RO phi=16.5 tgt=180.0 err=163.5 rem=163.5 dir=1 fine=0 spd=80.0 rd=37.7 rvx=-16.6 rvy=-55.9 ffx=-120.0 ffy=2.2 cx=-59.9 cy=-76.4 relx=7.0 rely=37.0 visage=25
+RO phi=20.2 tgt=180.0 err=159.8 rem=159.8 dir=1 fine=0 spd=80.0 rd=37.7 rvx=-20.1 rvy=-54.7 ffx=-120.0 ffy=-0.3 cx=-65.1 cy=-82.6 relx=7.0 rely=37.0 visage=75
+RO phi=16.4 tgt=180.0 err=163.6 rem=163.6 dir=1 fine=0 spd=80.0 rd=37.1 rvx=-15.7 rvy=-53.3 ffx=-120.0 ffy=-1.8 cx=-59.0 cy=-77.8 relx=3.0 rely=37.0 visage=11
+RO phi=19.6 tgt=180.0 err=160.4 rem=160.4 dir=1 fine=0 spd=80.0 rd=37.1 rvx=-18.7 rvy=-52.4 ffx=-120.0 ffy=-1.8 cx=-63.4 cy=-81.1 relx=3.0 rely=37.0 visage=64
+RO phi=19.0 tgt=180.0 err=161.0 rem=161.0 dir=1 fine=0 spd=80.0 rd=34.0 rvx=-13.0 rvy=-37.9 ffx=-120.0 ffy=-1.1 cx=-57.4 cy=-65.0 relx=1.0 rely=34.0 visage=34
+RO phi=21.2 tgt=180.0 err=158.8 rem=158.8 dir=1 fine=0 spd=80.0 rd=34.0 rvx=-14.5 rvy=-37.4 ffx=-120.0 ffy=-0.2 cx=-59.9 cy=-66.5 relx=1.0 rely=34.0 visage=87
+RO phi=18.4 tgt=180.0 err=161.6 rem=161.6 dir=1 fine=0 spd=80.0 rd=33.0 rvx=-11.1 rvy=-33.3 ffx=-120.0 ffy=0.5 cx=-55.2 cy=-58.0 relx=-1.0 rely=33.0 visage=20
+RO phi=18.2 tgt=180.0 err=161.8 rem=161.8 dir=1 fine=0 spd=80.0 rd=33.0 rvx=-11.0 rvy=-33.3 ffx=-120.0 ffy=0.8 cx=-55.0 cy=-57.5 relx=-1.0 rely=33.0 visage=72
+RO phi=18.0 tgt=180.0 err=162.0 rem=162.0 dir=1 fine=0 spd=80.0 rd=32.0 rvx=-9.3 rvy=-28.6 ffx=-120.0 ffy=0.4 cx=-53.2 cy=-52.9 relx=-1.0 rely=32.0 visage=47
+RO phi=17.4 tgt=180.0 err=162.6 rem=162.6 dir=1 fine=0 spd=80.0 rd=32.0 rvx=-9.0 rvy=-28.7 ffx=-0.0 ffy=0.0 cx=67.3 cy=-52.7 relx=-1.0 rely=32.0 visage=111
+RO phi=22.1 tgt=180.0 err=157.9 rem=157.9 dir=1 fine=0 spd=80.0 rd=28.1 rvx=0.0 rvy=0.0 ffx=-0.0 ffy=0.0 cx=74.1 cy=-30.1 relx=2.0 rely=28.0 visage=44
+RO phi=24.1 tgt=180.0 err=155.9 rem=155.9 dir=1 fine=0 spd=80.0 rd=28.2 rvx=0.0 rvy=0.0 ffx=-0.0 ffy=0.0 cx=73.0 cy=-32.7 relx=3.0 rely=28.0 visage=24
+RO phi=25.3 tgt=180.0 err=154.7 rem=154.7 dir=1 fine=0 spd=80.0 rd=28.2 rvx=0.0 rvy=0.0 ffx=-0.0 ffy=0.0 cx=72.3 cy=-34.2 relx=3.0 rely=28.0 visage=77
+RO phi=35.7 tgt=180.0 err=144.3 rem=144.3 dir=1 fine=0 spd=80.0 rd=26.0 rvx=0.0 rvy=0.0 ffx=-0.0 ffy=0.0 cx=65.0 cy=-46.6 relx=7.0 rely=25.0 visage=0
+RO phi=37.2 tgt=180.0 err=142.8 rem=142.8 dir=1 fine=0 spd=80.0 rd=26.0 rvx=0.0 rvy=0.0 ffx=-0.0 ffy=0.0 cx=63.7 cy=-48.4 relx=7.0 rely=25.0 visage=55
+RO phi=37.8 tgt=180.0 err=142.2 rem=142.2 dir=1 fine=0 spd=80.0 rd=21.6 rvx=0.0 rvy=0.0 ffx=-0.0 ffy=0.0 cx=63.2 cy=-49.1 relx=5.0 rely=21.0 visage=29
+RO phi=40.9 tgt=180.0 err=139.1 rem=139.1 dir=1 fine=0 spd=80.0 rd=21.6 rvx=0.0 rvy=0.0 ffx=-0.0 ffy=0.0 cx=60.5 cy=-52.3 relx=5.0 rely=21.0 visage=81
+RO phi=37.8 tgt=180.0 err=142.2 rem=142.2 dir=1 fine=0 spd=80.0 rd=17.1 rvx=27.2 rvy=35.1 ffx=-0.0 ffy=0.0 cx=90.4 cy=-14.0 relx=2.0 rely=17.0 visage=15
+RO phi=41.9 tgt=180.0 err=138.1 rem=138.1 dir=1 fine=0 spd=80.0 rd=17.1 rvx=29.7 rvy=33.0 ffx=-0.0 ffy=0.0 cx=89.2 cy=-20.4 relx=2.0 rely=17.0 visage=68
+RO phi=41.0 tgt=180.0 err=139.0 rem=139.0 dir=1 fine=0 spd=80.0 rd=16.0 rvx=32.7 rvy=37.6 ffx=-0.0 ffy=0.0 cx=93.1 cy=-14.9 relx=1.0 rely=16.0 visage=28
+RO phi=43.1 tgt=180.0 err=136.9 rem=136.9 dir=1 fine=0 spd=80.0 rd=16.0 rvx=34.1 rvy=36.4 ffx=-0.0 ffy=0.0 cx=92.5 cy=-18.3 relx=1.0 rely=16.0 visage=78
+RO phi=30.3 tgt=180.0 err=149.7 rem=149.7 dir=1 fine=0 spd=80.0 rd=12.2 rvx=34.9 rvy=59.7 ffx=-0.0 ffy=0.0 cx=104.0 cy=19.4 relx=-2.0 rely=12.0 visage=15
+RO phi=30.6 tgt=180.0 err=149.4 rem=149.4 dir=1 fine=0 spd=80.0 rd=12.2 rvx=35.2 rvy=59.5 ffx=-0.0 ffy=0.0 cx=104.1 cy=18.8 relx=-2.0 rely=12.0 visage=68
+RO phi=33.0 tgt=180.0 err=147.0 rem=147.0 dir=1 fine=0 spd=80.0 rd=12.0 rvx=38.0 rvy=58.6 ffx=-0.0 ffy=0.0 cx=105.1 cy=15.0 relx=-1.0 rely=12.0 visage=47
+RO phi=30.2 tgt=180.0 err=149.8 rem=149.8 dir=1 fine=0 spd=80.0 rd=12.0 rvx=35.1 rvy=60.3 ffx=-0.0 ffy=0.0 cx=104.3 cy=20.1 relx=-1.0 rely=12.0 visage=97
+RO phi=46.4 tgt=180.0 err=133.6 rem=133.6 dir=1 fine=0 spd=80.0 rd=13.3 rvx=45.8 rvy=43.7 ffx=-0.0 ffy=0.0 cx=101.0 cy=-14.3 relx=3.0 rely=13.0 visage=26
+RO phi=51.0 tgt=180.0 err=129.0 rem=129.0 dir=1 fine=0 spd=80.0 rd=12.6 rvx=51.9 rvy=42.0 ffx=-0.0 ffy=0.0 cx=102.2 cy=-20.2 relx=4.0 rely=12.0 visage=0
+RO phi=51.9 tgt=180.0 err=128.1 rem=128.1 dir=1 fine=0 spd=80.0 rd=12.6 rvx=52.5 rvy=41.2 ffx=-0.0 ffy=0.0 cx=101.9 cy=-21.7 relx=4.0 rely=12.0 visage=52
+RO phi=54.3 tgt=180.0 err=125.7 rem=125.7 dir=1 fine=0 spd=80.0 rd=12.6 rvx=54.2 rvy=39.0 ffx=-0.0 ffy=0.0 cx=100.9 cy=-26.0 relx=4.0 rely=12.0 visage=110
+RO phi=68.2 tgt=180.0 err=111.8 rem=111.8 dir=1 fine=0 spd=80.0 rd=17.0 rvx=41.8 rvy=16.7 ffx=-0.0 ffy=0.0 cx=71.5 cy=-57.6 relx=8.0 rely=15.0 visage=40
+RO phi=72.2 tgt=180.0 err=107.8 rem=107.8 dir=1 fine=0 spd=80.0 rd=17.0 rvx=42.8 rvy=13.8 ffx=-0.0 ffy=0.0 cx=67.3 cy=-62.4 relx=8.0 rely=15.0 visage=94
+RO phi=78.4 tgt=180.0 err=101.6 rem=101.6 dir=1 fine=0 spd=80.0 rd=17.0 rvx=44.1 rvy=9.0 ffx=-0.0 ffy=0.0 cx=60.2 cy=-69.3 relx=8.0 rely=15.0 visage=148
+RO phi=84.9 tgt=180.0 err=95.1 rem=95.1 dir=1 fine=0 spd=80.0 rd=17.0 rvx=44.8 rvy=4.0 ffx=-0.0 ffy=0.0 cx=51.9 cy=-75.7 relx=8.0 rely=15.0 visage=198
+RO phi=82.9 tgt=180.0 err=97.1 rem=97.1 dir=1 fine=0 spd=80.0 rd=23.4 rvx=0.0 rvy=0.0 ffx=-0.0 ffy=0.0 cx=9.9 cy=-79.4 relx=8.0 rely=22.0 visage=39
+RO phi=88.0 tgt=180.0 err=92.0 rem=92.0 dir=1 fine=0 spd=80.0 rd=23.4 rvx=0.0 rvy=0.0 ffx=-0.0 ffy=0.0 cx=2.7 cy=-80.0 relx=8.0 rely=22.0 visage=93
+RO phi=91.4 tgt=180.0 err=88.6 rem=88.6 dir=1 fine=0 spd=80.0 rd=23.4 rvx=0.0 rvy=0.0 ffx=-0.0 ffy=0.0 cx=-2.0 cy=-80.0 relx=8.0 rely=22.0 visage=145
+RO phi=82.2 tgt=180.0 err=97.8 rem=97.8 dir=1 fine=0 spd=80.0 rd=27.2 rvx=0.0 rvy=0.0 ffx=-0.0 ffy=0.0 cx=10.9 cy=-79.3 relx=3.0 rely=27.0 visage=5
+RO phi=85.8 tgt=180.0 err=94.2 rem=94.2 dir=1 fine=0 spd=80.0 rd=27.2 rvx=0.0 rvy=0.0 ffx=-0.0 ffy=0.0 cx=5.8 cy=-79.8 relx=3.0 rely=27.0 visage=55
+RO phi=88.0 tgt=180.0 err=92.0 rem=92.0 dir=1 fine=0 spd=80.0 rd=26.1 rvx=0.0 rvy=0.0 ffx=-0.0 ffy=0.0 cx=2.8 cy=-80.0 relx=2.0 rely=26.0 visage=18
+RO phi=90.4 tgt=180.0 err=89.6 rem=89.6 dir=1 fine=0 spd=80.0 rd=26.1 rvx=0.0 rvy=0.0 ffx=-0.0 ffy=0.0 cx=-0.6 cy=-80.0 relx=2.0 rely=26.0 visage=71
+RO phi=85.2 tgt=180.0 err=94.8 rem=94.8 dir=1 fine=0 spd=80.0 rd=25.0 rvx=0.0 rvy=0.0 ffx=-0.0 ffy=0.0 cx=6.7 cy=-79.7 relx=-1.0 rely=25.0 visage=16
+RO phi=81.3 tgt=180.0 err=98.7 rem=98.7 dir=1 fine=0 spd=80.0 rd=25.0 rvx=0.0 rvy=0.0 ffx=-0.0 ffy=0.0 cx=12.1 cy=-79.1 relx=-1.0 rely=25.0 visage=67
+RO phi=76.8 tgt=180.0 err=103.2 rem=103.2 dir=1 fine=0 spd=80.0 rd=25.0 rvx=0.0 rvy=0.0 ffx=-0.0 ffy=0.0 cx=18.3 cy=-77.9 relx=-1.0 rely=25.0 visage=119
+RO phi=72.0 tgt=180.0 err=108.0 rem=108.0 dir=1 fine=0 spd=80.0 rd=25.0 rvx=0.0 rvy=0.0 ffx=-0.0 ffy=0.0 cx=24.8 cy=-76.1 relx=-1.0 rely=25.0 visage=172
+RO phi=83.4 tgt=180.0 err=96.6 rem=96.6 dir=1 fine=0 spd=80.0 rd=22.6 rvx=0.0 rvy=0.0 ffx=-0.0 ffy=0.0 cx=9.1 cy=-79.5 relx=5.0 rely=22.0 visage=25
+RO phi=82.8 tgt=180.0 err=97.2 rem=97.2 dir=1 fine=0 spd=80.0 rd=22.6 rvx=0.0 rvy=0.0 ffx=-0.0 ffy=0.0 cx=10.0 cy=-79.4 relx=5.0 rely=22.0 visage=75
+RO phi=91.9 tgt=180.0 err=88.1 rem=88.1 dir=1 fine=0 spd=80.0 rd=22.5 rvx=0.0 rvy=0.0 ffx=-0.0 ffy=0.0 cx=-2.7 cy=-80.0 relx=8.0 rely=21.0 visage=46
+RO phi=95.1 tgt=180.0 err=84.9 rem=84.9 dir=1 fine=0 spd=80.0 rd=22.5 rvx=0.0 rvy=0.0 ffx=-0.0 ffy=0.0 cx=-7.1 cy=-79.7 relx=8.0 rely=21.0 visage=106
+RO phi=115.3 tgt=180.0 err=64.7 rem=64.7 dir=1 fine=0 spd=80.0 rd=19.4 rvx=29.8 rvy=-14.1 ffx=-0.0 ffy=0.0 cx=-4.4 cy=-86.4 relx=11.0 rely=16.0 visage=34
+RO phi=122.5 tgt=180.0 err=57.5 rem=57.5 dir=1 fine=0 spd=80.0 rd=19.4 rvx=27.8 rvy=-17.7 ffx=-0.0 ffy=0.0 cx=-15.2 cy=-85.2 relx=11.0 rely=16.0 visage=84
+RO phi=130.2 tgt=180.0 err=49.8 rem=49.8 dir=1 fine=0 spd=80.0 rd=19.4 rvx=25.1 rvy=-21.3 ffx=0.0 ffy=0.0 cx=-26.5 cy=-82.3 relx=11.0 rely=16.0 visage=136
+RO phi=138.1 tgt=180.0 err=41.9 rem=41.9 dir=1 fine=0 spd=80.0 rd=19.4 rvx=22.0 rvy=-24.5 ffx=0.0 ffy=0.0 cx=-37.5 cy=-77.9 relx=11.0 rely=16.0 visage=186
+RO phi=133.5 tgt=180.0 err=46.5 rem=46.5 dir=1 fine=0 spd=80.0 rd=20.2 rvx=20.9 rvy=-19.8 ffx=0.0 ffy=0.0 cx=-34.2 cy=-77.8 relx=7.0 rely=19.0 visage=40
+RO phi=141.0 tgt=180.0 err=39.0 rem=39.0 dir=1 fine=0 spd=80.0 rd=20.2 rvx=18.1 rvy=-22.3 ffx=0.0 ffy=0.0 cx=-44.1 cy=-72.7 relx=7.0 rely=19.0 visage=94
+RO phi=145.7 tgt=180.0 err=34.3 rem=34.3 dir=1 fine=0 spd=79.9 rd=20.2 rvx=16.2 rvy=-23.8 ffx=0.0 ffy=0.0 cx=-49.8 cy=-68.7 relx=7.0 rely=19.0 visage=145
+RO phi=151.7 tgt=180.0 err=28.3 rem=28.3 dir=1 fine=0 spd=78.7 rd=20.2 rvx=13.6 rvy=-25.3 ffx=0.0 ffy=0.0 cx=-55.6 cy=-62.6 relx=7.0 rely=19.0 visage=198
+RO phi=136.1 tgt=180.0 err=43.9 rem=43.9 dir=1 fine=1 spd=75.0 rd=20.0 rvx=20.8 rvy=-21.6 ffx=0.0 ffy=0.0 cx=-33.3 cy=-73.6 relx=0.0 rely=20.0 visage=43
+RO phi=140.1 tgt=180.0 err=39.9 rem=39.9 dir=1 fine=1 spd=75.0 rd=19.0 rvx=22.5 rvy=-26.8 ffx=0.0 ffy=0.0 cx=-35.1 cy=-75.0 relx=0.0 rely=19.0 visage=16
+RO phi=140.7 tgt=180.0 err=39.3 rem=39.3 dir=1 fine=1 spd=75.0 rd=19.0 rvx=22.2 rvy=-27.1 ffx=0.0 ffy=0.0 cx=-35.8 cy=-74.6 relx=0.0 rely=19.0 visage=69
+RO phi=131.2 tgt=180.0 err=48.8 rem=48.8 dir=1 fine=1 spd=75.0 rd=18.2 rvx=29.2 rvy=-25.5 ffx=0.0 ffy=0.0 cx=-20.2 cy=-81.9 relx=-3.0 rely=18.0 visage=11
+RO phi=129.0 tgt=180.0 err=51.0 rem=51.0 dir=1 fine=1 spd=75.0 rd=18.2 rvx=30.1 rvy=-24.4 ffx=0.0 ffy=0.0 cx=-17.1 cy=-82.7 relx=-3.0 rely=18.0 visage=65
+RO phi=133.1 tgt=180.0 err=46.9 rem=46.9 dir=1 fine=1 spd=75.0 rd=18.0 rvx=29.1 rvy=-27.2 ffx=0.0 ffy=0.0 cx=-22.1 cy=-82.0 relx=-1.0 rely=18.0 visage=36
+RO phi=130.1 tgt=180.0 err=49.9 rem=49.9 dir=1 fine=1 spd=75.0 rd=18.0 rvx=30.5 rvy=-25.7 ffx=0.0 ffy=0.0 cx=-17.8 cy=-83.0 relx=-1.0 rely=18.0 visage=86
+RO phi=146.2 tgt=180.0 err=33.8 rem=33.8 dir=1 fine=1 spd=75.0 rd=18.7 rvx=20.4 rvy=-30.4 ffx=0.0 ffy=0.0 cx=-42.0 cy=-72.1 relx=5.0 rely=18.0 visage=21
+RO phi=145.2 tgt=180.0 err=34.8 rem=34.8 dir=1 fine=1 spd=75.0 rd=18.7 rvx=20.9 rvy=-30.0 ffx=0.0 ffy=0.0 cx=-40.7 cy=-72.9 relx=5.0 rely=18.0 visage=76
+RO phi=147.5 tgt=180.0 err=32.5 rem=32.5 dir=1 fine=1 spd=75.0 rd=18.7 rvx=19.6 rvy=-30.9 ffx=0.0 ffy=0.0 cx=-43.6 cy=-71.1 relx=5.0 rely=18.0 visage=129
+RO phi=152.1 tgt=180.0 err=27.9 rem=27.9 dir=1 fine=1 spd=75.0 rd=18.7 rvx=17.1 rvy=-32.3 ffx=0.0 ffy=0.0 cx=-49.1 cy=-67.5 relx=5.0 rely=18.0 visage=192
+RO phi=169.1 tgt=180.0 err=10.9 rem=10.9 dir=1 fine=1 spd=75.0 rd=20.6 rvx=5.1 rvy=-26.6 ffx=0.0 ffy=0.0 cx=-68.5 cy=-40.7 relx=10.0 rely=18.0 visage=43
+ROH x=306.1 y=16.3 relx=10.0 rely=18.0 phi=170.0 tgt=180.0 visage=53
+RY yaw=325.0 target=0.0 err=35.0
+RY yaw=328.0 target=0.0 err=32.0
+RY yaw=331.2 target=0.0 err=28.8
+RY yaw=335.8 target=0.0 err=24.2
+RY yaw=341.9 target=0.0 err=18.1
+RY yaw=349.2 target=0.0 err=10.8
+RYD yaw=353.2 target=0.0 err=6.8 x=295.2 y=12.6
+RT relx=8.0 rely=23.0 dist_ok=1 diag_ok=1 centered=1 diag=1 yaw=355.3 target=0.0
+RT relx=-2.0 rely=24.0 dist_ok=1 diag_ok=1 centered=1 diag=1 yaw=357.3 target=0.0
+RT relx=-4.0 rely=23.0 dist_ok=1 diag_ok=1 centered=1 diag=1 yaw=357.4 target=0.0
+RT relx=-4.0 rely=23.0 dist_ok=1 diag_ok=1 centered=1 diag=1 yaw=357.4 target=0.0
+RTR yaw=0.0 x=295.9 y=13.1
+FS lat=-4.0 fwd=-3.0 yerr=2.6 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=-9.0 fwd=-4.0 yerr=2.6 vxb=-13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-13.5 cy=-0.6 stop=0 stable=0 ready=2 lock=1
+FS lat=-9.0 fwd=-4.0 yerr=2.6 vxb=-13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-13.5 cy=-0.6 stop=0 stable=0 ready=2 lock=1
+FS lat=-9.0 fwd=-4.0 yerr=2.5 vxb=-13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-13.5 cy=-0.6 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-4.0 yerr=2.1 vxb=-13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-13.5 cy=-0.5 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-4.0 yerr=1.4 vxb=-13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-13.5 cy=-0.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-4.0 yerr=0.6 vxb=-13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-13.5 cy=-0.1 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-4.0 yerr=0.3 vxb=-13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-13.5 cy=0.1 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-5.0 yerr=1.4 vxb=-13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-13.5 cy=0.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-5.0 yerr=1.9 vxb=-13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-13.5 cy=0.4 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-4.0 yerr=1.2 vxb=-13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-13.5 cy=0.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-4.0 yerr=0.2 vxb=-13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-13.5 cy=0.1 stop=0 stable=0 ready=0 lock=1
+FS lat=-10.0 fwd=-5.0 yerr=0.6 vxb=-30.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-30.0 cy=-0.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-10.0 fwd=-5.0 yerr=1.1 vxb=-30.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-30.0 cy=-0.6 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-5.0 yerr=1.9 vxb=-13.5 vyb=-0.0 ffx=0.0 ffy=0.0 cx=-13.5 cy=-0.4 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-5.0 yerr=1.6 vxb=-13.5 vyb=-0.0 ffx=-161.0 ffy=-0.6 cx=-174.5 cy=-1.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-5.0 yerr=1.3 vxb=-13.5 vyb=-0.0 ffx=-161.0 ffy=-0.5 cx=-174.5 cy=-0.8 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-5.0 yerr=1.0 vxb=-13.5 vyb=-0.0 ffx=-161.0 ffy=-0.4 cx=-174.5 cy=-0.6 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-5.0 yerr=0.8 vxb=-13.5 vyb=-0.0 ffx=-161.0 ffy=-0.3 cx=-174.5 cy=-0.5 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-5.0 yerr=0.3 vxb=-13.5 vyb=-0.0 ffx=-161.0 ffy=-0.1 cx=-174.5 cy=-0.2 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-7.0 yerr=0.3 vxb=-13.5 vyb=-0.0 ffx=-161.0 ffy=-0.1 cx=-174.5 cy=-0.2 stop=0 stable=0 ready=0 lock=1
+FS lat=-9.0 fwd=-7.0 yerr=0.7 vxb=-13.5 vyb=-0.0 ffx=-161.0 ffy=-0.3 cx=-174.5 cy=-0.4 stop=0 stable=0 ready=0 lock=1
+FS lat=-10.0 fwd=-8.0 yerr=0.8 vxb=-30.0 vyb=-0.0 ffx=-161.0 ffy=-0.3 cx=-191.0 cy=-0.7 stop=0 stable=0 ready=0 lock=1
+FS lat=-10.0 fwd=-8.0 yerr=1.0 vxb=-30.0 vyb=-0.0 ffx=-161.0 ffy=-0.4 cx=-191.0 cy=-0.9 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=-8.0 yerr=1.7 vxb=-49.5 vyb=-0.0 ffx=-161.0 ffy=-0.6 cx=-210.5 cy=-2.2 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=-8.0 yerr=1.6 vxb=-49.5 vyb=-0.0 ffx=-161.0 ffy=-0.6 cx=-210.5 cy=-2.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=-8.0 yerr=1.4 vxb=-49.5 vyb=-0.0 ffx=-161.0 ffy=-0.5 cx=-210.5 cy=-1.8 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=-8.0 yerr=1.7 vxb=-49.5 vyb=-0.0 ffx=-161.0 ffy=-0.6 cx=-210.5 cy=-2.1 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=-9.0 yerr=1.0 vxb=-49.5 vyb=-15.8 ffx=-161.0 ffy=-0.4 cx=-210.2 cy=-17.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-12.0 fwd=-9.0 yerr=0.9 vxb=-70.0 vyb=-15.8 ffx=-161.0 ffy=-0.3 cx=-230.7 cy=-17.2 stop=0 stable=0 ready=0 lock=1
+FS lat=-12.0 fwd=-9.0 yerr=1.7 vxb=-70.0 vyb=-15.8 ffx=-161.0 ffy=-0.6 cx=-230.5 cy=-18.5 stop=0 stable=0 ready=0 lock=1
+FS lat=-10.0 fwd=-13.0 yerr=1.7 vxb=-30.0 vyb=-80.0 ffx=-161.0 ffy=-0.6 cx=-188.6 cy=-81.5 stop=0 stable=0 ready=0 lock=1
+FS lat=-10.0 fwd=-13.0 yerr=2.5 vxb=-30.0 vyb=-80.0 ffx=-161.0 ffy=-0.9 cx=-187.5 cy=-82.1 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=-12.0 yerr=3.6 vxb=-49.5 vyb=-80.0 ffx=-160.9 ffy=-1.3 cx=-205.2 cy=-84.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=-12.0 yerr=4.9 vxb=-49.5 vyb=-80.0 ffx=-160.8 ffy=-1.8 cx=-203.4 cy=-85.7 stop=0 stable=0 ready=0 lock=1
+FS lat=-8.0 fwd=-14.0 yerr=6.4 vxb=-0.0 vyb=-80.0 ffx=-160.7 ffy=-2.3 cx=-151.8 cy=-81.8 stop=0 stable=0 ready=0 lock=1
+FS lat=-8.0 fwd=-14.0 yerr=6.9 vxb=-0.0 vyb=-80.0 ffx=-160.7 ffy=-2.5 cx=-151.1 cy=-81.9 stop=0 stable=0 ready=0 lock=1
+FS lat=-8.0 fwd=-14.0 yerr=6.5 vxb=-0.0 vyb=-80.0 ffx=-160.7 ffy=-2.4 cx=-151.6 cy=-81.9 stop=0 stable=0 ready=0 lock=1
+FS lat=-8.0 fwd=-14.0 yerr=5.0 vxb=-0.0 vyb=-80.0 ffx=-160.8 ffy=-1.8 cx=-153.8 cy=-81.5 stop=0 stable=0 ready=0 lock=1
+FS lat=-8.0 fwd=-14.0 yerr=4.2 vxb=-0.0 vyb=-80.0 ffx=-160.9 ffy=-1.5 cx=-155.0 cy=-81.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-8.0 fwd=-14.0 yerr=3.1 vxb=-0.0 vyb=-80.0 ffx=-160.9 ffy=-1.1 cx=-156.6 cy=-81.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-8.0 fwd=-14.0 yerr=2.1 vxb=-0.0 vyb=-80.0 ffx=-161.0 ffy=-0.8 cx=-158.0 cy=-80.7 stop=0 stable=0 ready=0 lock=1
+FS lat=-8.0 fwd=-14.0 yerr=2.4 vxb=-0.0 vyb=-80.0 ffx=-161.0 ffy=-0.9 cx=-157.6 cy=-80.8 stop=0 stable=0 ready=0 lock=1
+FS lat=-10.0 fwd=-12.0 yerr=2.8 vxb=-30.0 vyb=-80.0 ffx=-160.9 ffy=-1.0 cx=-187.0 cy=-82.4 stop=0 stable=0 ready=0 lock=1
+FS lat=-10.0 fwd=-12.0 yerr=4.3 vxb=-30.0 vyb=-80.0 ffx=-132.7 ffy=-1.3 cx=-156.7 cy=-83.3 stop=0 stable=0 ready=0 lock=1
+FS lat=-10.0 fwd=-11.0 yerr=4.4 vxb=-30.0 vyb=-57.8 ffx=-60.3 ffy=-0.6 cx=-85.8 cy=-60.5 stop=0 stable=0 ready=0 lock=1
+FS lat=-10.0 fwd=-11.0 yerr=6.4 vxb=-30.0 vyb=-57.8 ffx=0.0 ffy=0.0 cx=-23.4 cy=-60.7 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=-9.0 yerr=7.3 vxb=-49.5 vyb=-15.8 ffx=0.0 ffy=0.0 cx=-47.1 cy=-21.9 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=-9.0 yerr=5.0 vxb=-49.5 vyb=-15.8 ffx=0.0 ffy=0.0 cx=-47.9 cy=-20.0 stop=0 stable=0 ready=0 lock=1
+FS lat=-11.0 fwd=-9.0 yerr=2.4 vxb=-49.5 vyb=-15.8 ffx=0.0 ffy=0.0 cx=-48.8 cy=-17.8 stop=0 stable=0 ready=0 lock=1
+FS lat=-7.0 fwd=-7.0 yerr=0.5 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-7.0 fwd=-7.0 yerr=0.6 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-6.0 fwd=-5.0 yerr=1.4 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=-6.0 fwd=-5.0 yerr=0.4 vxb=-0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=0 lock=1
+FS lat=3.0 fwd=-2.0 yerr=0.9 vxb=0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=3.0 fwd=-2.0 yerr=0.8 vxb=0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=4.0 fwd=-2.0 yerr=1.1 vxb=0.0 vyb=-0.0 ffx=0.0 ffy=0.0 cx=0.0 cy=0.0 stop=0 stable=1 ready=2 lock=1
+FS lat=4.0 fwd=-2.0 yerr=0.8 vxb=0.0 vyb=-0.0 ffx=0.2 ffy=99.9 cx=0.2 cy=99.9 stop=0 stable=1 ready=2 lock=1
+FS lat=10.0 fwd=-1.0 yerr=0.3 vxb=30.0 vyb=-0.0 ffx=0.1 ffy=99.9 cx=30.1 cy=100.1 stop=0 stable=0 ready=0 lock=1
+FS lat=10.0 fwd=-1.0 yerr=0.1 vxb=30.0 vyb=-0.0 ffx=0.0 ffy=100.0 cx=30.0 cy=100.0 stop=0 stable=0 ready=0 lock=1
+FS lat=10.0 fwd=-1.0 yerr=0.1 vxb=30.0 vyb=-0.0 ffx=0.0 ffy=100.0 cx=30.0 cy=100.0 stop=0 stable=0 ready=0 lock=1
+FS lat=10.0 fwd=-1.0 yerr=0.2 vxb=30.0 vyb=-0.0 ffx=0.0 ffy=100.0 cx=30.0 cy=100.1 stop=0 stable=0 ready=0 lock=1
+FS lat=10.0 fwd=-1.0 yerr=0.2 vxb=30.0 vyb=-0.0 ffx=-0.0 ffy=100.0 cx=30.0 cy=99.9 stop=0 stable=0 ready=0 lock=1
+FS lat=10.0 fwd=-1.0 yerr=0.6 vxb=30.0 vyb=-0.0 ffx=0.1 ffy=99.9 cx=30.1 cy=100.2 stop=0 stable=0 ready=0 lock=1
+FS lat=10.0 fwd=0.0 yerr=0.6 vxb=30.0 vyb=0.0 ffx=0.2 ffy=99.9 cx=30.2 cy=100.2 stop=0 stable=0 ready=0 lock=1
+FS lat=10.0 fwd=0.0 yerr=1.3 vxb=30.0 vyb=0.0 ffx=0.3 ffy=99.8 cx=30.3 cy=100.5 stop=0 stable=0 ready=0 lock=1
+FS lat=9.0 fwd=-1.0 yerr=1.3 vxb=13.5 vyb=-0.0 ffx=0.3 ffy=99.8 cx=13.8 cy=100.1 stop=0 stable=0 ready=0 lock=1
+FS lat=10.0 fwd=-1.0 yerr=0.6 vxb=30.0 vyb=-0.0 ffx=0.2 ffy=99.9 cx=30.2 cy=100.2 stop=0 stable=0 ready=0 lock=1
+FS lat=10.0 fwd=-1.0 yerr=0.1 vxb=30.0 vyb=-0.0 ffx=-0.0 ffy=100.0 cx=30.0 cy=100.0 stop=0 stable=0 ready=0 lock=1
+FS lat=10.0 fwd=-1.0 yerr=0.6 vxb=30.0 vyb=-0.0 ffx=-0.1 ffy=100.0 cx=29.9 cy=99.7 stop=0 stable=0 ready=0 lock=1
+FS lat=7.0 fwd=-2.0 yerr=0.6 vxb=0.0 vyb=-0.0 ffx=-0.2 ffy=100.0 cx=-0.2 cy=100.0 stop=0 stable=1 ready=0 lock=1
+FS lat=7.0 fwd=-2.0 yerr=0.1 vxb=0.0 vyb=-0.0 ffx=0.0 ffy=100.0 cx=0.0 cy=100.0 stop=0 stable=1 ready=0 lock=1
+FS lat=7.0 fwd=-2.0 yerr=0.3 vxb=0.0 vyb=-0.0 ffx=-0.1 ffy=100.0 cx=-0.1 cy=100.0 stop=0 stable=1 ready=0 lock=1
+FS lat=7.0 fwd=-2.0 yerr=0.3 vxb=0.0 vyb=-0.0 ffx=-0.1 ffy=100.0 cx=-0.1 cy=100.0 stop=0 stable=1 ready=0 lock=1
+FS lat=5.0 fwd=-5.0 yerr=0.3 vxb=0.0 vyb=-0.0 ffx=-0.1 ffy=100.0 cx=-0.1 cy=100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=4.0 fwd=-5.0 yerr=0.1 vxb=0.0 vyb=-0.0 ffx=0.0 ffy=100.0 cx=0.0 cy=100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=4.0 fwd=-5.0 yerr=0.5 vxb=0.0 vyb=-0.0 ffx=0.1 ffy=99.9 cx=0.1 cy=99.9 stop=0 stable=1 ready=2 lock=1
+FS lat=4.0 fwd=-5.0 yerr=0.9 vxb=0.0 vyb=-0.0 ffx=0.2 ffy=99.8 cx=0.2 cy=99.8 stop=0 stable=1 ready=2 lock=1
+FS lat=4.0 fwd=-5.0 yerr=1.0 vxb=0.0 vyb=-0.0 ffx=0.3 ffy=99.8 cx=0.3 cy=99.8 stop=0 stable=1 ready=2 lock=1
+FS lat=4.0 fwd=-5.0 yerr=0.5 vxb=0.0 vyb=-0.0 ffx=0.1 ffy=99.9 cx=0.1 cy=99.9 stop=0 stable=1 ready=2 lock=1
+FS lat=4.0 fwd=-5.0 yerr=0.2 vxb=0.0 vyb=-0.0 ffx=0.1 ffy=100.0 cx=0.1 cy=100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=4.0 fwd=-5.0 yerr=0.1 vxb=0.0 vyb=-0.0 ffx=-0.0 ffy=100.0 cx=-0.0 cy=100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=4.0 fwd=-5.0 yerr=0.5 vxb=0.0 vyb=-0.0 ffx=-0.1 ffy=100.0 cx=-0.1 cy=100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=4.0 fwd=-5.0 yerr=0.3 vxb=0.0 vyb=-0.0 ffx=-0.1 ffy=100.0 cx=-0.1 cy=100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=4.0 fwd=-5.0 yerr=0.4 vxb=0.0 vyb=-0.0 ffx=-0.1 ffy=100.0 cx=-0.1 cy=100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=2.0 fwd=-8.0 yerr=0.0 vxb=0.0 vyb=-0.0 ffx=0.0 ffy=100.0 cx=0.0 cy=100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=2.0 fwd=-8.0 yerr=0.0 vxb=0.0 vyb=-0.0 ffx=-0.0 ffy=100.0 cx=-0.0 cy=100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=2.0 fwd=-8.0 yerr=0.1 vxb=0.0 vyb=-0.0 ffx=0.0 ffy=100.0 cx=0.0 cy=100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=2.0 fwd=-8.0 yerr=0.1 vxb=0.0 vyb=-0.0 ffx=-0.0 ffy=100.0 cx=-0.0 cy=100.0 stop=0 stable=1 ready=2 lock=1
+FS lat=2.0 fwd=-9.0 yerr=0.0 vxb=0.0 vyb=-15.8 ffx=-0.0 ffy=100.0 cx=-0.0 cy=84.3 stop=0 stable=0 ready=0 lock=1
+FS lat=2.0 fwd=-9.0 yerr=0.7 vxb=0.0 vyb=-15.8 ffx=0.2 ffy=99.9 cx=0.4 cy=84.1 stop=0 stable=0 ready=0 lock=1
+FS lat=3.0 fwd=-8.0 yerr=1.3 vxb=0.0 vyb=-0.0 ffx=0.3 ffy=99.8 cx=0.3 cy=99.8 stop=0 stable=1 ready=0 lock=1
+FS lat=3.0 fwd=-8.0 yerr=1.6 vxb=0.0 vyb=-0.0 ffx=0.4 ffy=99.7 cx=0.4 cy=99.7 stop=0 stable=1 ready=0 lock=1
+FS lat=3.0 fwd=-9.0 yerr=1.1 vxb=0.0 vyb=-15.8 ffx=0.3 ffy=99.8 cx=0.6 cy=84.1 stop=0 stable=0 ready=0 lock=1
+FS lat=3.0 fwd=-9.0 yerr=0.4 vxb=0.0 vyb=-15.8 ffx=0.1 ffy=99.9 cx=0.2 cy=84.2 stop=0 stable=0 ready=0 lock=1
+FS lat=2.0 fwd=-8.0 yerr=0.1 vxb=0.0 vyb=-0.0 ffx=-0.0 ffy=100.0 cx=-0.0 cy=100.0 stop=0 stable=1 ready=0 lock=1
+FS lat=2.0 fwd=-8.0 yerr=0.4 vxb=0.0 vyb=-0.0 ffx=-0.1 ffy=100.0 cx=-0.1 cy=100.0 stop=0 stable=1 ready=0 lock=1
+FS lat=1.0 fwd=-10.0 yerr=0.4 vxb=0.0 vyb=-35.0 ffx=-0.1 ffy=100.0 cx=-0.3 cy=65.0 stop=0 stable=0 ready=0 lock=1
+FS lat=1.0 fwd=-10.0 yerr=0.9 vxb=0.0 vyb=-35.0 ffx=-0.2 ffy=100.0 cx=-0.8 cy=65.0 stop=0 stable=0 ready=0 lock=1
+RT relx=-19.0 rely=26.0 dist_ok=1 diag_ok=1 centered=0 diag=0 yaw=6.6 target=0.0
+RT relx=-19.0 rely=26.0 dist_ok=1 diag_ok=1 centered=0 diag=0 yaw=1.8 target=0.0
+RT relx=-6.0 rely=33.0 dist_ok=0 diag_ok=0 centered=0 diag=0 yaw=3.2 target=0.0
+RTR yaw=0.0 x=322.9 y=160.9

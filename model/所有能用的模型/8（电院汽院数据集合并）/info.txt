@@ -1,0 +1,59 @@
+层参数
+def mbv2_body(input):
+    x1 = _conv_block(input, 24, (3, 3), strides=(2, 2))
+    x1 = _inverted_residual_block(x1, 16, (3, 3), t=1, strides=2, n=1)
+    x1 = _inverted_residual_block(x1, 16, (3, 3), t=2, strides=1, n=1)
+    x1 = _inverted_residual_block(x1, 24, (3, 3), t=2, strides=2, n=2)
+    return x1, stride
+
+
+
+
+[train]
+voc_folder=/root/autodl-tmp/128x128_f/dataset/
+train_data=train_data.txt
+eva_data=eva_data.txt
+cluster_anchor=yolo3_anchors.txt
+batch_size=128
+total_epochs=150
+aug_jitter=0.10
+aug_hue=0.08
+aug_sat=1.30
+aug_val=1.30
+aug_scale_min=0.70
+aug_scale_max=1.40
+light_aug_prob=0.70
+light_brightness_std=0.08
+light_contrast_std=0.06
+light_gamma_std=0.05
+light_saturation_std=0.03
+light_color_std=0.02
+light_shadow_prob=0.15
+light_shadow_std=0.04
+train_workers=8
+train_max_queue_size=32
+train_use_multiprocessing=True
+
+
+[model]
+width=128
+height=128
+
+num_heads=1
+cluster_number=3
+divider=8
+#divider = 8
+iou_type=iou
+body_type=mbv2
+
+obj_scale=8
+noobj_scale=1
+iou_threshold=0.5
+num_classes=4
+class_names=car,sandbag,teddy,tennis
+
+[inference]
+nms_iou_threshold = 0.30
+nms_score_threshold=0.50
+max_detections = 10
+
