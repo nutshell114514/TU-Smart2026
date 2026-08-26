@@ -1,5 +1,0 @@
-background
-car
-sandbag
-teddy
-tennis
