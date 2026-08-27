@@ -1,2 +1,0 @@
-[console_scripts]
-mpy-cross = mpy_cross:main
